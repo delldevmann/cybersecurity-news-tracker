@@ -26,124 +26,124 @@ jobs:
           pip install feedparser python-dateutil requests
 
       - name: Run news parser
-        run: |
-          python <<EOF
-import feedparser
-import datetime
-import re
-from dateutil import parser as date_parser
-
-# Custom topics
-topics = {
-    'China Cyber': 'https://news.google.com/rss/search?q=china+cyber+attack&hl=en-US&gl=US&ceid=US:en',
-    'Russian Cyber': 'https://news.google.com/rss/search?q=russia+cyber+attack&hl=en-US&gl=US&ceid=US:en',
-    'Iranian Cyber': 'https://news.google.com/rss/search?q=iran+cyber+attack&hl=en-US&gl=US&ceid=US:en',
-    'CVEs': 'https://news.google.com/rss/search?q=cve+vulnerability&hl=en-US&gl=US&ceid=US:en',
-    'POC Exploits': 'https://news.google.com/rss/search?q=proof+of+concept+exploit&hl=en-US&gl=US&ceid=US:en',
-    'Exploited Vulnerabilities': 'https://news.google.com/rss/search?q=exploited+vulnerability&hl=en-US&gl=US&ceid=US:en',
-    'Satellites': 'https://news.google.com/rss/search?q=satellite+cybersecurity&hl=en-US&gl=US&ceid=US:en',
-    'Cyber Attacks': 'https://news.google.com/rss/search?q=major+cyber+attack&hl=en-US&gl=US&ceid=US:en',
-    'Crypto Security': 'https://news.google.com/rss/search?q=cryptocurrency+security&hl=en-US&gl=US&ceid=US:en',
-    'Quantum Computing': 'https://news.google.com/rss/search?q=quantum+computing+security&hl=en-US&gl=US&ceid=US:en',
-    'Espionage': 'https://news.google.com/rss/search?q=cyber+espionage&hl=en-US&gl=US&ceid=US:en'
-}
-
-def clean_html(text):
-    # Remove HTML tags
-    text = re.sub(r'<[^>]+>', '', text)
-    
-    # Replace HTML entities
-    entities = {
-        '&nbsp;': ' ',
-        '&quot;': '"',
-        '&amp;': '&',
-        '&lt;': '<',
-        '&gt;': '>',
-        '&apos;': "'",
-        '&#39;': "'",
-        '&mdash;': '—'
-    }
-    
-    for entity, replacement in entities.items():
-        text = text.replace(entity, replacement)
-    
-    return text.strip()
-
-# Start README content
-readme = ['# Cybersecurity News Tracker', '', f'Last updated: {datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")}', '']
-
-# Process each topic
-for topic, url in topics.items():
-    print(f'Processing {topic}')
-    
-    # Add topic header
-    readme.append(f'## {topic}')
-    readme.append('')
-    
-    try:
-        # Parse the feed
-        feed = feedparser.parse(url)
-        
-        # Limit to 5 entries
-        entries = feed.entries[:5]
-        
-        if entries:
-            for entry in entries:
-                # Get title and link
-                title = entry.title.replace(' - ', ': ').split(' | ')[0].strip()
-                link = entry.link
+        uses: jannekem/run-python-script-action@v1
+        with:
+          script: |
+            import feedparser
+            import datetime
+            import re
+            from dateutil import parser as date_parser
+            
+            # Custom topics
+            topics = {
+                'China Cyber': 'https://news.google.com/rss/search?q=china+cyber+attack&hl=en-US&gl=US&ceid=US:en',
+                'Russian Cyber': 'https://news.google.com/rss/search?q=russia+cyber+attack&hl=en-US&gl=US&ceid=US:en',
+                'Iranian Cyber': 'https://news.google.com/rss/search?q=iran+cyber+attack&hl=en-US&gl=US&ceid=US:en',
+                'CVEs': 'https://news.google.com/rss/search?q=cve+vulnerability&hl=en-US&gl=US&ceid=US:en',
+                'POC Exploits': 'https://news.google.com/rss/search?q=proof+of+concept+exploit&hl=en-US&gl=US&ceid=US:en',
+                'Exploited Vulnerabilities': 'https://news.google.com/rss/search?q=exploited+vulnerability&hl=en-US&gl=US&ceid=US:en',
+                'Satellites': 'https://news.google.com/rss/search?q=satellite+cybersecurity&hl=en-US&gl=US&ceid=US:en',
+                'Cyber Attacks': 'https://news.google.com/rss/search?q=major+cyber+attack&hl=en-US&gl=US&ceid=US:en',
+                'Crypto Security': 'https://news.google.com/rss/search?q=cryptocurrency+security&hl=en-US&gl=US&ceid=US:en',
+                'Quantum Computing': 'https://news.google.com/rss/search?q=quantum+computing+security&hl=en-US&gl=US&ceid=US:en',
+                'Espionage': 'https://news.google.com/rss/search?q=cyber+espionage&hl=en-US&gl=US&ceid=US:en'
+            }
+            
+            def clean_html(text):
+                # Remove HTML tags
+                text = re.sub(r'<[^>]+>', '', text)
                 
-                # Get source if available
-                source = ''
-                if hasattr(entry, 'source'):
-                    if hasattr(entry.source, 'title'):
-                        source = f' ({entry.source.title})'
+                # Replace HTML entities
+                entities = {
+                    '&nbsp;': ' ',
+                    '&quot;': '"',
+                    '&amp;': '&',
+                    '&lt;': '<',
+                    '&gt;': '>',
+                    '&apos;': "'",
+                    '&#39;': "'",
+                    '&mdash;': '—'
+                }
                 
-                # Get description
-                description = ''
-                if hasattr(entry, 'description'):
-                    description = entry.description
-                elif hasattr(entry, 'summary'):
-                    description = entry.summary
+                for entity, replacement in entities.items():
+                    text = text.replace(entity, replacement)
                 
-                # Clean up description
-                description = clean_html(description)
+                return text.strip()
+            
+            # Start README content
+            readme = ['# Cybersecurity News Tracker', '', f'Last updated: {datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")}', '']
+            
+            # Process each topic
+            for topic, url in topics.items():
+                print(f'Processing {topic}')
                 
-                # Limit description length
-                if len(description) > 200:
-                    cutoff = min(200, len(description))
-                    period_pos = description.rfind('. ', 0, cutoff)
-                    comma_pos = description.rfind(', ', 0, cutoff)
-                    
-                    if period_pos > 0:
-                        description = description[:period_pos+1]
-                    elif comma_pos > 0:
-                        description = description[:comma_pos+1]
-                    else:
-                        description = description[:cutoff] + '...'
-                
-                # Add entry to README
-                readme.append(f'* **[{title}]({link})**{source}')
-                readme.append(f'  {description}')
+                # Add topic header
+                readme.append(f'## {topic}')
                 readme.append('')
-        else:
-            readme.append('*No recent articles found*')
+                
+                try:
+                    # Parse the feed
+                    feed = feedparser.parse(url)
+                    
+                    # Limit to 5 entries
+                    entries = feed.entries[:5]
+                    
+                    if entries:
+                        for entry in entries:
+                            # Get title and link
+                            title = entry.title.replace(' - ', ': ').split(' | ')[0].strip()
+                            link = entry.link
+                            
+                            # Get source if available
+                            source = ''
+                            if hasattr(entry, 'source'):
+                                if hasattr(entry.source, 'title'):
+                                    source = f' ({entry.source.title})'
+                            
+                            # Get description
+                            description = ''
+                            if hasattr(entry, 'description'):
+                                description = entry.description
+                            elif hasattr(entry, 'summary'):
+                                description = entry.summary
+                            
+                            # Clean up description
+                            description = clean_html(description)
+                            
+                            # Limit description length
+                            if len(description) > 200:
+                                cutoff = min(200, len(description))
+                                period_pos = description.rfind('. ', 0, cutoff)
+                                comma_pos = description.rfind(', ', 0, cutoff)
+                                
+                                if period_pos > 0:
+                                    description = description[:period_pos+1]
+                                elif comma_pos > 0:
+                                    description = description[:comma_pos+1]
+                                else:
+                                    description = description[:cutoff] + '...'
+                            
+                            # Add entry to README
+                            readme.append(f'* **[{title}]({link})**{source}')
+                            readme.append(f'  {description}')
+                            readme.append('')
+                    else:
+                        readme.append('*No recent articles found*')
+                        readme.append('')
+                except Exception as e:
+                    readme.append(f'*Error processing feed: {str(e)}*')
+                    readme.append('')
+            
+            # Add footer
+            readme.append('---')
             readme.append('')
-    except Exception as e:
-        readme.append(f'*Error processing feed: {str(e)}*')
-        readme.append('')
-
-# Add footer
-readme.append('---')
-readme.append('')
-readme.append('*Automatically updated every 6 hours via GitHub Actions*')
-
-# Write to file
-with open('README.md', 'w', encoding='utf-8') as f:
-    f.write('\n'.join(readme))
-
-print('README updated successfully!')
-EOF
+            readme.append('*Automatically updated every 6 hours via GitHub Actions*')
+            
+            # Write to file
+            with open('README.md', 'w', encoding='utf-8') as f:
+                f.write('\n'.join(readme))
+            
+            print('README updated successfully!')
 
       - name: Commit and push changes
         run: |
