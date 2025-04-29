@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser python-dateutil requests
+          pip install feedparser python-dateutil requests beautifulsoup4
 
       - name: Run news parser
         uses: jannekem/run-python-script-action@v1
@@ -33,52 +33,145 @@ jobs:
             import datetime
             import re
             from dateutil import parser as date_parser
+            from bs4 import BeautifulSoup
+            import html
             
-            # Custom topics
+            # Custom topics with their descriptions
             topics = {
-                'China Cyber': 'https://news.google.com/rss/search?q=china+cyber+attack&hl=en-US&gl=US&ceid=US:en',
-                'Russian Cyber': 'https://news.google.com/rss/search?q=russia+cyber+attack&hl=en-US&gl=US&ceid=US:en',
-                'Iranian Cyber': 'https://news.google.com/rss/search?q=iran+cyber+attack&hl=en-US&gl=US&ceid=US:en',
-                'CVEs': 'https://news.google.com/rss/search?q=cve+vulnerability&hl=en-US&gl=US&ceid=US:en',
-                'POC Exploits': 'https://news.google.com/rss/search?q=proof+of+concept+exploit&hl=en-US&gl=US&ceid=US:en',
-                'Exploited Vulnerabilities': 'https://news.google.com/rss/search?q=exploited+vulnerability&hl=en-US&gl=US&ceid=US:en',
-                'Satellites': 'https://news.google.com/rss/search?q=satellite+cybersecurity&hl=en-US&gl=US&ceid=US:en',
-                'Cyber Attacks': 'https://news.google.com/rss/search?q=major+cyber+attack&hl=en-US&gl=US&ceid=US:en',
-                'Crypto Security': 'https://news.google.com/rss/search?q=cryptocurrency+security&hl=en-US&gl=US&ceid=US:en',
-                'Quantum Computing': 'https://news.google.com/rss/search?q=quantum+computing+security&hl=en-US&gl=US&ceid=US:en',
-                'Espionage': 'https://news.google.com/rss/search?q=cyber+espionage&hl=en-US&gl=US&ceid=US:en'
+                'China Cyber': {
+                    'url': 'https://news.google.com/rss/search?q=china+cyber+attack&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'News about cyber threats, attacks, and activities attributed to China.'
+                },
+                'Russian Cyber': {
+                    'url': 'https://news.google.com/rss/search?q=russia+cyber+attack&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Coverage of cyber operations, attacks, and threats linked to Russia.'
+                },
+                'Iranian Cyber': {
+                    'url': 'https://news.google.com/rss/search?q=iran+cyber+attack&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Reports on cyber activities and operations attributed to Iran.'
+                },
+                'CVEs': {
+                    'url': 'https://news.google.com/rss/search?q=cve+vulnerability&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Latest Common Vulnerabilities and Exposures (CVEs) affecting various systems and software.'
+                },
+                'POC Exploits': {
+                    'url': 'https://news.google.com/rss/search?q=proof+of+concept+exploit&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Information about newly released proof-of-concept exploits for vulnerabilities.'
+                },
+                'Exploited Vulnerabilities': {
+                    'url': 'https://news.google.com/rss/search?q=exploited+vulnerability&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'News about vulnerabilities actively being exploited in the wild.'
+                },
+                'Satellites': {
+                    'url': 'https://news.google.com/rss/search?q=satellite+cybersecurity&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Cybersecurity concerns, threats, and protections for satellite infrastructure.'
+                },
+                'Cyber Attacks': {
+                    'url': 'https://news.google.com/rss/search?q=major+cyber+attack&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Major cyber attacks against organizations, governments, and infrastructure.'
+                },
+                'Crypto Security': {
+                    'url': 'https://news.google.com/rss/search?q=cryptocurrency+security&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Security issues, threats, and protections related to cryptocurrency.'
+                },
+                'Quantum Computing': {
+                    'url': 'https://news.google.com/rss/search?q=quantum+computing+security&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Developments in quantum computing and its implications for cybersecurity.'
+                },
+                'Espionage': {
+                    'url': 'https://news.google.com/rss/search?q=cyber+espionage&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'News about cyber espionage campaigns, operations, and threats.'
+                }
             }
             
             def clean_html(text):
-                # Remove HTML tags
-                text = re.sub(r'<[^>]+>', '', text)
+                # Use BeautifulSoup for better HTML parsing
+                if not text:
+                    return ""
+                soup = BeautifulSoup(text, 'html.parser')
+                clean_text = soup.get_text()
                 
                 # Replace HTML entities
-                entities = {
-                    '&nbsp;': ' ',
-                    '&quot;': '"',
-                    '&amp;': '&',
-                    '&lt;': '<',
-                    '&gt;': '>',
-                    '&apos;': "'",
-                    '&#39;': "'",
-                    '&mdash;': '—'
-                }
+                clean_text = html.unescape(clean_text)
                 
-                for entity, replacement in entities.items():
-                    text = text.replace(entity, replacement)
+                # Remove extra whitespace
+                clean_text = re.sub(r'\s+', ' ', clean_text).strip()
                 
-                return text.strip()
+                return clean_text
+            
+            def format_date(date_str):
+                try:
+                    dt = date_parser.parse(date_str)
+                    return dt.strftime("%b %d, %Y")
+                except:
+                    return ""
+            
+            def extract_source_from_title(title):
+                # Try to extract source from common patterns like "Title - Source" or "Title | Source"
+                for separator in [' - ', ' | ', ': ']:
+                    if separator in title:
+                        parts = title.split(separator, 1)
+                        if len(parts) > 1:
+                            return parts[0], parts[1]
+                
+                return title, ""
             
             # Start README content
-            readme = ['# Cybersecurity News Tracker', '', f'Last updated: {datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")}', '']
+            current_time = datetime.datetime.utcnow()
+            readme = [
+                '# 🛡️ Cybersecurity News Tracker',
+                '',
+                f'Last updated: {current_time.strftime("%B %d, %Y at %H:%M UTC")}',
+                '',
+                '> Automatically aggregated cybersecurity news from various sources.',
+                '',
+                '## 📋 Table of Contents',
+                ''
+            ]
+            
+            # Add table of contents
+            for topic in topics:
+                topic_anchor = topic.lower().replace(' ', '-')
+                readme.append(f'- [🔍 {topic}](#{topic_anchor})')
+            
+            readme.append('')
+            readme.append('---')
+            readme.append('')
             
             # Process each topic
-            for topic, url in topics.items():
+            for topic, details in topics.items():
                 print(f'Processing {topic}')
                 
-                # Add topic header
-                readme.append(f'## {topic}')
+                url = details['url']
+                desc = details['desc']
+                
+                # Add topic header with emoji based on topic
+                emoji = '🔒'  # Default emoji
+                if 'china' in topic.lower():
+                    emoji = '🇨🇳'
+                elif 'russian' in topic.lower():
+                    emoji = '🇷🇺'
+                elif 'iranian' in topic.lower():
+                    emoji = '🇮🇷'
+                elif 'cve' in topic.lower():
+                    emoji = '🔓'
+                elif 'exploit' in topic.lower():
+                    emoji = '💥'
+                elif 'satellite' in topic.lower():
+                    emoji = '🛰️'
+                elif 'attack' in topic.lower():
+                    emoji = '⚠️'
+                elif 'crypto' in topic.lower():
+                    emoji = '💰'
+                elif 'quantum' in topic.lower():
+                    emoji = '⚛️'
+                elif 'espionage' in topic.lower():
+                    emoji = '🕵️'
+                
+                topic_anchor = topic.lower().replace(' ', '-')
+                readme.append(f'<h2 id="{topic_anchor}">{emoji} {topic}</h2>')
+                readme.append('')
+                readme.append(f'_{desc}_')
                 readme.append('')
                 
                 try:
@@ -89,30 +182,56 @@ jobs:
                     entries = feed.entries[:5]
                     
                     if entries:
+                        # Add a table for better organization
+                        readme.append('<table>')
+                        readme.append('<tr><th>Source</th><th>Title</th><th>Summary</th></tr>')
+                        
+                        seen_articles = set()  # To avoid duplicate articles
+                        
                         for entry in entries:
+                            # Skip if we've seen this article already (common with aggregators)
+                            article_id = entry.link
+                            if article_id in seen_articles:
+                                continue
+                            
+                            seen_articles.add(article_id)
+                            
                             # Get title and link
-                            title = entry.title.replace(' - ', ': ').split(' | ')[0].strip()
+                            title = entry.title
                             link = entry.link
                             
-                            # Get source if available
-                            source = ''
-                            if hasattr(entry, 'source'):
-                                if hasattr(entry.source, 'title'):
-                                    source = f' ({entry.source.title})'
+                            # Extract source from title if possible
+                            article_title, source_from_title = extract_source_from_title(title)
                             
-                            # Get description
-                            description = ''
+                            # Get source if available
+                            source = source_from_title
+                            if not source and hasattr(entry, 'source') and hasattr(entry.source, 'title'):
+                                source = entry.source.title
+                            
+                            # Get description/summary
+                            description = ""
                             if hasattr(entry, 'description'):
                                 description = entry.description
                             elif hasattr(entry, 'summary'):
                                 description = entry.summary
                             
+                            # Get publication date
+                            pub_date = ""
+                            if hasattr(entry, 'published'):
+                                pub_date = format_date(entry.published)
+                            elif hasattr(entry, 'pubDate'):
+                                pub_date = format_date(entry.pubDate)
+                            
                             # Clean up description
                             description = clean_html(description)
                             
+                            # Check if description is too similar to title
+                            if description == article_title or not description:
+                                description = "No summary available."
+                            
                             # Limit description length
-                            if len(description) > 200:
-                                cutoff = min(200, len(description))
+                            if len(description) > 180:
+                                cutoff = min(180, len(description))
                                 period_pos = description.rfind('. ', 0, cutoff)
                                 comma_pos = description.rfind(', ', 0, cutoff)
                                 
@@ -123,21 +242,33 @@ jobs:
                                 else:
                                     description = description[:cutoff] + '...'
                             
-                            # Add entry to README
-                            readme.append(f'* **[{title}]({link})**{source}')
-                            readme.append(f'  {description}')
-                            readme.append('')
+                            # Add entry to README as a table row
+                            readme.append('<tr>')
+                            readme.append(f'<td><strong>{source}</strong>{" " + pub_date if pub_date else ""}</td>')
+                            readme.append(f'<td><a href="{link}">{article_title}</a></td>')
+                            readme.append(f'<td>{description}</td>')
+                            readme.append('</tr>')
+                        
+                        readme.append('</table>')
+                        readme.append('')
                     else:
                         readme.append('*No recent articles found*')
                         readme.append('')
                 except Exception as e:
                     readme.append(f'*Error processing feed: {str(e)}*')
                     readme.append('')
+                
+                # Add a divider between topics
+                readme.append('<hr>')
+                readme.append('')
             
             # Add footer
+            readme.append('')
             readme.append('---')
             readme.append('')
             readme.append('*Automatically updated every 6 hours via GitHub Actions*')
+            readme.append('')
+            readme.append('<div align="center">Maintained by <a href="https://github.com/delldevmann">@delldevmann</a></div>')
             
             # Write to file
             with open('README.md', 'w', encoding='utf-8') as f:
