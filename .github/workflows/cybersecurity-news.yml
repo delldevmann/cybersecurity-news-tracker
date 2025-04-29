@@ -2,8 +2,8 @@ name: Cybersecurity News Parser
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Runs every 6 hours
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-news:
@@ -27,7 +27,7 @@ jobs:
 
       - name: Run news parser
         run: |
-          python -c "
+          python <<EOF
 import feedparser
 import datetime
 import re
@@ -55,12 +55,12 @@ def clean_html(text):
     # Replace HTML entities
     entities = {
         '&nbsp;': ' ',
-        '&quot;': '\"',
+        '&quot;': '"',
         '&amp;': '&',
         '&lt;': '<',
         '&gt;': '>',
-        '&apos;': \"'\",
-        '&#39;': \"'\",
+        '&apos;': "'",
+        '&#39;': "'",
         '&mdash;': '—'
     }
     
@@ -70,7 +70,7 @@ def clean_html(text):
     return text.strip()
 
 # Start README content
-readme = ['# Cybersecurity News Tracker', '', f'Last updated: {datetime.datetime.utcnow().strftime(\"%Y-%m-%d %H:%M:%S UTC\")}', '']
+readme = ['# Cybersecurity News Tracker', '', f'Last updated: {datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")}', '']
 
 # Process each topic
 for topic, url in topics.items():
@@ -140,15 +140,15 @@ readme.append('*Automatically updated every 6 hours via GitHub Actions*')
 
 # Write to file
 with open('README.md', 'w', encoding='utf-8') as f:
-    f.write('\\n'.join(readme))
+    f.write('\n'.join(readme))
 
 print('README updated successfully!')
-          "
+EOF
 
       - name: Commit and push changes
         run: |
-          git config --global user.name \"GitHub Actions Bot\"
-          git config --global user.email \"actions@github.com\"
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m \"Update cybersecurity news: $(date +'%Y-%m-%d %H:%M:%S')\"
+          git commit -m "Update cybersecurity news: $(date +'%Y-%m-%d %H:%M:%S')"
           git push origin main
