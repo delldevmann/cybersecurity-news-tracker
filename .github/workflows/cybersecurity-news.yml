@@ -38,6 +38,10 @@ jobs:
             
             # Custom topics with their descriptions
             topics = {
+                'Critical Infrastructure': {
+                    'url': 'https://news.google.com/rss/search?q=critical+infrastructure&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'News about cybersecurity threats and incidents affecting critical infrastructure sectors.'
+                },
                 'China Cyber': {
                     'url': 'https://news.google.com/rss/search?q=china+cyber+attack&hl=en-US&gl=US&ceid=US:en',
                     'desc': 'News about cyber threats, attacks, and activities attributed to China.'
@@ -49,6 +53,10 @@ jobs:
                 'Iranian Cyber': {
                     'url': 'https://news.google.com/rss/search?q=iran+cyber+attack&hl=en-US&gl=US&ceid=US:en',
                     'desc': 'Reports on cyber activities and operations attributed to Iran.'
+                },
+                'North Korean Cyber': {
+                    'url': 'https://news.google.com/rss/search?q=north+korea+cyber&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Coverage of cyber operations and threats attributed to North Korea.'
                 },
                 'CVEs': {
                     'url': 'https://news.google.com/rss/search?q=cve+vulnerability&hl=en-US&gl=US&ceid=US:en',
@@ -81,6 +89,18 @@ jobs:
                 'Espionage': {
                     'url': 'https://news.google.com/rss/search?q=cyber+espionage&hl=en-US&gl=US&ceid=US:en',
                     'desc': 'News about cyber espionage campaigns, operations, and threats.'
+                },
+                'Drone Security': {
+                    'url': 'https://news.google.com/rss/search?q=drone+cybersecurity+threats&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Coverage of cybersecurity threats related to drones, UAVs, and counter-drone technologies.'
+                },
+                'Asymmetric Warfare': {
+                    'url': 'https://news.google.com/rss/search?q=asymmetric+cyber+warfare&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'News about asymmetric cyber warfare tactics, strategies, and incidents.'
+                },
+                'Global Perspectives': {
+                    'url': 'https://news.google.com/rss/search?q=global+cybersecurity+threats&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Cybersecurity threats from a global perspective, including non-Western viewpoints.'
                 }
             }
             
@@ -147,18 +167,26 @@ jobs:
                 
                 # Add topic header with emoji based on topic
                 emoji = '🔒'  # Default emoji
-                if 'china' in topic.lower():
+                if 'critical infrastructure' in topic.lower():
+                    emoji = '🏭'
+                elif 'china' in topic.lower():
                     emoji = '🇨🇳'
                 elif 'russian' in topic.lower():
                     emoji = '🇷🇺'
                 elif 'iranian' in topic.lower():
                     emoji = '🇮🇷'
+                elif 'north korean' in topic.lower():
+                    emoji = '🇰🇵'
                 elif 'cve' in topic.lower():
                     emoji = '🔓'
                 elif 'exploit' in topic.lower():
                     emoji = '💥'
                 elif 'satellite' in topic.lower():
                     emoji = '🛰️'
+                elif 'drone' in topic.lower():
+                    emoji = '🛸'
+                elif 'asymmetric' in topic.lower():
+                    emoji = '⚔️'
                 elif 'attack' in topic.lower():
                     emoji = '⚠️'
                 elif 'crypto' in topic.lower():
@@ -167,6 +195,8 @@ jobs:
                     emoji = '⚛️'
                 elif 'espionage' in topic.lower():
                     emoji = '🕵️'
+                elif 'global' in topic.lower():
+                    emoji = '🌐'
                 
                 topic_anchor = topic.lower().replace(' ', '-')
                 readme.append(f'<h2 id="{topic_anchor}">{emoji} {topic}</h2>')
