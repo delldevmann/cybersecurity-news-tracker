@@ -98,6 +98,38 @@ jobs:
                     'url': 'https://news.google.com/rss/search?q=asymmetric+cyber+warfare&hl=en-US&gl=US&ceid=US:en',
                     'desc': 'News about asymmetric cyber warfare tactics, strategies, and incidents.'
                 },
+                'Financial Times': {
+                    'url': 'https://news.google.com/rss/search?q=ft.com+cybersecurity&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Cybersecurity news and analysis from the Financial Times, offering business and economic perspectives.'
+                },
+                'Politico': {
+                    'url': 'https://news.google.com/rss/search?q=politico.com+cybersecurity&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Political and policy perspectives on cybersecurity from Politico.'
+                },
+                'Wired': {
+                    'url': 'https://news.google.com/rss/search?q=wired.com+cybersecurity&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'In-depth technology and cybersecurity reporting from Wired.'
+                },
+                'Reuters': {
+                    'url': 'https://news.google.com/rss/search?q=reuters.com+cybersecurity&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Breaking cybersecurity news and developments from Reuters global news service.'
+                },
+                'Wall Street Journal': {
+                    'url': 'https://news.google.com/rss/search?q=wsj.com+cybersecurity&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Business-focused cybersecurity news and analysis from the Wall Street Journal.'
+                },
+                'GBHackers': {
+                    'url': 'https://news.google.com/rss/search?q=gbhackers.com&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Technical cybersecurity news, vulnerability reports, and threat intelligence from GBHackers.'
+                },
+                'The Record': {
+                    'url': 'https://news.google.com/rss/search?q=therecord.media&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Cybersecurity reporting from The Record by Recorded Future.'
+                },
+                'The Hacker News': {
+                    'url': 'https://news.google.com/rss/search?q=thehackernews.com&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Latest cybersecurity news, exploits, and vulnerabilities covered by The Hacker News.'
+                },
                 'Global Perspectives': {
                     'url': 'https://news.google.com/rss/search?q=global+cybersecurity+threats&hl=en-US&gl=US&ceid=US:en',
                     'desc': 'Cybersecurity threats from a global perspective, including non-Western viewpoints.'
@@ -187,6 +219,22 @@ jobs:
                     emoji = '🛸'
                 elif 'asymmetric' in topic.lower():
                     emoji = '⚔️'
+                elif 'financial times' in topic.lower():
+                    emoji = '📊'
+                elif 'politico' in topic.lower():
+                    emoji = '🏛️'
+                elif 'wired' in topic.lower():
+                    emoji = '🔌'
+                elif 'reuters' in topic.lower():
+                    emoji = '📰'
+                elif 'wall street journal' in topic.lower() or 'wsj' in topic.lower():
+                    emoji = '💼'
+                elif 'gbhackers' in topic.lower():
+                    emoji = '👨‍💻'
+                elif 'record' in topic.lower():
+                    emoji = '🎯'
+                elif 'hacker news' in topic.lower():
+                    emoji = '💻'
                 elif 'attack' in topic.lower():
                     emoji = '⚠️'
                 elif 'crypto' in topic.lower():
