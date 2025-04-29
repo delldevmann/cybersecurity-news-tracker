@@ -130,6 +130,54 @@ jobs:
                     'url': 'https://news.google.com/rss/search?q=thehackernews.com&hl=en-US&gl=US&ceid=US:en',
                     'desc': 'Latest cybersecurity news, exploits, and vulnerabilities covered by The Hacker News.'
                 },
+                'AI Security': {
+                    'url': 'https://news.google.com/rss/search?q=AI+cybersecurity+threats&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Emerging cybersecurity risks, threats, and attacks involving artificial intelligence.'
+                },
+                'Cyber Defense Policy': {
+                    'url': 'https://news.google.com/rss/search?q=cyber+defense+policy+us+nato&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Cyber defense strategies and doctrines from the US, NATO, and allied nations.'
+                },
+                'Insider Threats': {
+                    'url': 'https://news.google.com/rss/search?q=insider+cybersecurity+threats&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Coverage of cybersecurity incidents and risks involving insiders and trusted employees.'
+                },
+                'Cyber Law and Norms': {
+                    'url': 'https://news.google.com/rss/search?q=cyber+law+international+norms&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Legal frameworks and international norms shaping cyberspace governance and operations.'
+                },
+                'Military Cyber Innovation': {
+                    'url': 'https://news.google.com/rss/search?q=military+cyber+technology+DARPA&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Advances in cyber technologies driven by military research, including DARPA projects.'
+                },
+                'Space Cyber Warfare': {
+                    'url': 'https://news.google.com/rss/search?q=space+cyber+warfare&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Cybersecurity risks related to space-based assets and cyber warfare in outer space.'
+                },
+                'IoT and Smart Cities Security': {
+                    'url': 'https://news.google.com/rss/search?q=smart+city+IoT+cybersecurity&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Cyber risks affecting Internet of Things devices and smart city infrastructure.'
+                },
+                'Geopolitical Cyber Flashpoints': {
+                    'url': 'https://news.google.com/rss/search?q=Taiwan+South+China+Sea+cyber+conflict&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Cyber escalations in key geopolitical hotspots such as Taiwan and the South China Sea.'
+                },
+                'APT Tradecraft Evolution': {
+                    'url': 'https://news.google.com/rss/search?q=APT+hacker+tactics+cybersecurity&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Monitoring how advanced persistent threats are evolving their tactics, techniques, and procedures.'
+                },
+                'Information Warfare and PsyOps': {
+                    'url': 'https://news.google.com/rss/search?q=information+warfare+disinformation+psyops&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'News on influence operations, disinformation campaigns, and psychological operations online.'
+                },
+                'Supply Chain Cybersecurity': {
+                    'url': 'https://news.google.com/rss/search?q=cyber+supply+chain+attack&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Coverage of cybersecurity risks and attacks targeting software and hardware supply chains.'
+                },
+                'Post-Quantum Cryptography': {
+                    'url': 'https://news.google.com/rss/search?q=post-quantum+cryptography&hl=en-US&gl=US&ceid=US:en',
+                    'desc': 'Advancements and risks associated with cryptography in the post-quantum computing era.'
+                },
                 'Global Perspectives': {
                     'url': 'https://news.google.com/rss/search?q=global+cybersecurity+threats&hl=en-US&gl=US&ceid=US:en',
                     'desc': 'Cybersecurity threats from a global perspective, including non-Western viewpoints.'
@@ -235,6 +283,30 @@ jobs:
                     emoji = '🎯'
                 elif 'hacker news' in topic.lower():
                     emoji = '💻'
+                elif 'ai security' in topic.lower():
+                    emoji = '🤖'
+                elif 'cyber defense policy' in topic.lower():
+                    emoji = '🛡️'
+                elif 'insider threats' in topic.lower():
+                    emoji = '🔍'
+                elif 'cyber law' in topic.lower():
+                    emoji = '⚖️'
+                elif 'military cyber' in topic.lower():
+                    emoji = '🪖'
+                elif 'space cyber' in topic.lower():
+                    emoji = '🚀'
+                elif 'iot' in topic.lower() or 'smart cities' in topic.lower():
+                    emoji = '🏙️'
+                elif 'geopolitical' in topic.lower():
+                    emoji = '🗺️'
+                elif 'apt' in topic.lower():
+                    emoji = '🎭'
+                elif 'information warfare' in topic.lower() or 'psyops' in topic.lower():
+                    emoji = '📣'
+                elif 'supply chain' in topic.lower():
+                    emoji = '🔗'
+                elif 'post-quantum' in topic.lower():
+                    emoji = '🧮'
                 elif 'attack' in topic.lower():
                     emoji = '⚠️'
                 elif 'crypto' in topic.lower():
