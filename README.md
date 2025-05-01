@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity News Tracker
 
-Last updated: May 01, 2025 at 01:05 UTC
+Last updated: May 01, 2025 at 01:09 UTC
 
 > Automatically aggregated cybersecurity news from various sources.
 
@@ -52,9 +52,9 @@ _News about cybersecurity threats and incidents affecting critical infrastructur
 <table>
 <tr><th>Source</th><th>Title</th><th>Summary</th></tr>
 <tr>
-<td><strong>DW</strong> Apr 30, 2025</td>
+<td><strong>dw.com</strong> Apr 30, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPbDFLOHhUaG52cDNxZ3pNMThuRmhNWFM5SWQ3bzkyWU9kWmd2QXRlTWlKVV83UEJwYjQ1RHI5Wmx5Zmxnc2hsMmFkZVJ4Wl9PRU1jd0lDXy1xWnI1Q2hwc0dSNDVPUU1sWmY4ckJVV3UwMXUzVWVzc0tIUm1GblZJcXhTaXNSb3FkQ0JIanJUS2JxTGEtTnJGMnp5TlhLYnBscnBFa1h4SnhZaHRMUDlfWEppeVQtUGpOeWZwRURzRFRFQmxZ0gHEAUFVX3lxTE5tZVNBNk1NZm1LMmQwOFVNVVBKX3ZCRTRZM1h4a1FrendvU2prOUpUZEpXVlFnUDI3Y1NzTmI2N0IxUWItbUVRbGpSYk9WMVdUb2NkUEZPSDY5RlNlQ3A1OXNHSEtQdTZLNW1WMXNyb2d2NlRuU1VsUm1hTmZ6VEFNZEtlV0FuNmNFNWxYNkF4NURPNHlWZnpZT0xjLXNIbWctM0VveHdWOHJSQ21MYjNnejV6ZV9ra0oycFRzVzFES3VOTjE?oc=5">How secure is Germany's critical infrastructure?</a></td>
-<td>How secure is Germany's critical infrastructure? DW</td>
+<td>How secure is Germany's critical infrastructure? dw.com</td>
 </tr>
 <tr>
 <td><strong>Dark Reading</strong> Apr 29, 2025</td>
@@ -587,11 +587,6 @@ _Cybersecurity news and analysis from the Financial Times, offering business and
 <td>Rockwell Automation Unveils Powerful New Service to Detect and Respond to OT Cyber Threats Financial Times</td>
 </tr>
 <tr>
-<td><strong>Financial Times</strong> Apr 29, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPWGFRaUJPV0dLeV9ubmEyYjcydkhKVWp4OUpGWG1vRjR0TDVJMEJfZmJqX1I1andTYjFIQTlhdnV4SFNmWWZUd0JRa2daQzRPcTREZWRod2JVNVN4UE9ON1pXSWpSVVRDQWo4RjlrX2tmOFpHaGtGcUQyeHZTSmRkZ3lmZXZzczVodHBhLWZodTk1WmRKdjd3Nw?oc=5">Corero Network Security Wins 2025 Global InfoSec Award for "Best Service for a DDoS Protection Solution"</a></td>
-<td>Corero Network Security Wins 2025 Global InfoSec Award for "Best Service for a DDoS Protection Solution" Financial Times</td>
-</tr>
-<tr>
 <td><strong>Financial Times</strong> Mar 17, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1RTV9tTFYwY1ZxRVlIQ0VsVDJMcHF2SlI3eENYdFk5WEZSbFktUFFsWnV5WDFFLTJlampQTVF3RjdqLVF1bkQ3SjFtT0o2ZEdpZVU5MnZ0S284VTFyTDRmUzk2RTZod19IY1FkY1htdlU?oc=5">Alphabet agrees to buy cyber security group Wiz for $32bn</a></td>
 <td>Alphabet agrees to buy cyber security group Wiz for $32bn Financial Times</td>
@@ -600,6 +595,11 @@ _Cybersecurity news and analysis from the Financial Times, offering business and
 <td><strong>Financial Times</strong> Apr 28, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQQVQ2ajVCai1QTmhwa01TQWxFd0ozcXJqTHlYTjJDNkVGNE1Oc1dnZ08xeGMyTnI2dWZYbmlybkt0WHIzV0lyLU5HQ0tjUmduaWFHYWJfdlBONmdhMmlLeWw5cFRENnBoMTBpM0FTX3U0OWJyRnRuRDd0VW8tMUJSRXJpTUx0ZUtlOThRWHlqaG14M0lacHduQg?oc=5">IBM Delivers Autonomous Security Operations with Cutting-Edge Agentic AI – Company Announcement</a></td>
 <td>IBM Delivers Autonomous Security Operations with Cutting-Edge Agentic AI – Company Announcement Financial Times</td>
+</tr>
+<tr>
+<td><strong>Financial Times</strong> Jul 26, 2024</td>
+<td><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5WRHRDQ0thQS05QjJiMkthXzA2eE9vX2UtQ1YwSlNaTlF2dHkteVBJdW1zbWg5cmh0T1hreUgyeWxZcnBnZFpBQXdZbm9UMUMxVHl4SlVVV3EzaENHb1BmU19NOVViT29ta05EdkJ2WDM?oc=5">ECB finds ‘shortcomings’ in banks’ ability to cope with cyber attacks</a></td>
+<td>ECB finds ‘shortcomings’ in banks’ ability to cope with cyber attacks Financial Times</td>
 </tr>
 </table>
 
@@ -867,18 +867,18 @@ _Emerging cybersecurity risks, threats, and attacks involving artificial intelli
 <td>The Hidden Risks of Over-Relying on AI in Cybersecurity MSSP Alert</td>
 </tr>
 <tr>
-<td><strong>SC Media</strong> Apr 30, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE45aFR4WURpU0JzTUstZmRjOHRWd0NsdlJTQWRDRUpENDFDZEpBYmJYNWFZb0oyaGs5UzFZakpIaXJvNUd0VkVxWnBNX00zUmtBSHpldVNkUzVWeUR6SnBTWmRJWGpJb1V5SjdnNUFzX29qSWRUbVRDczVnMEVYdw?oc=5">AI expands cybersecurity risks, warn experts</a></td>
-<td>AI expands cybersecurity risks, warn experts SC Media</td>
-</tr>
-<tr>
 <td><strong>Hackread</strong> Apr 30, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE1tVWFoZHA5WUJaVlllXzgyOEp6Q254TFhpTHl0dlQ2UlNBb3V4RG4tZGNUT1Z1RkJfTnRhRE5nZnAwbUxEcGMzbnY4Q2x1NF83RjZXUW16ZzdLTHBKSHQ2TzUyMzhuaVhkTW1zNVlfSDVVcDVmV3Fj?oc=5">Google Introduces Agentic AI to Combat Cybersecurity Threats</a></td>
 <td>Google Introduces Agentic AI to Combat Cybersecurity Threats Hackread</td>
 </tr>
 <tr>
+<td><strong>SC Media</strong> Apr 30, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE45aFR4WURpU0JzTUstZmRjOHRWd0NsdlJTQWRDRUpENDFDZEpBYmJYNWFZb0oyaGs5UzFZakpIaXJvNUd0VkVxWnBNX00zUmtBSHpldVNkUzVWeUR6SnBTWmRJWGpJb1V5SjdnNUFzX29qSWRUbVRDczVnMEVYdw?oc=5">AI expands cybersecurity risks, warn experts</a></td>
+<td>AI expands cybersecurity risks, warn experts SC Media</td>
+</tr>
+<tr>
 <td><strong>South China Morning Post</strong> May 01, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOE00ejBGeVJERHdDWmpfeXNkZGduZWhjRjJlUGF3cF91YXZrMFJ5NGdKbmc0VVc4MG13b3o4emd6bHVvcnVKbWpSNk4zRXlIVWdYQkc0SE9qTnhmTjhlMzBrUDBqaUU3d3g0cW52cjBfLTVRNk03VmRxb0xsbTBiX09yS1ZkOU5TUFZIQUtvakM4aHN0eTZNSFI1bktfMWx5UUdBcFNkS2tnOHZnZzc5cW05d0U0WExOT05hT2tSV01ybXpTdzBUWk5XQXRHZkFT0gHQAUFVX3lxTFBhU19SZjlkMnV1T1hlbXV6a3lrNHRPT2dncVBjS2I5N3c5OEhsWEdSMXJXZW1BeF9GT0p0c0ltd2pHMmZ5akUxb0c0TTk1NTk3WW91RDNnSFdfWFcwdjZiajVEQWNFZ1MyVG50WXpxd0lPLTlGTWIwVFRZS0dwUG5scG5sWUdtWEl1cUpDb3NwN01mM29YaklUM1JRcDM0c0w5S3Roa2V3OGx3TzBGYmVzOFduY29YV19nMkVEbm1ENFlQUGtmanpURXRqUWxLblg?oc=5">Relying on AI carries risks, security expert warns amid China’s DeepSeek craze</a></td>
+<td><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOE00ejBGeVJERHdDWmpfeXNkZGduZWhjRjJlUGF3cF91YXZrMFJ5NGdKbmc0VVc4MG13b3o4emd6bHVvcnVKbWpSNk4zRXlIVWdYQkc0SE9qTnhmTjhlMzBrUDBqaUU3d3g0cW52cjBfLTVRNk03VmRxb0xsbTBiX09yS1ZkOU5TUFZIQUtvakM4aHN0eTZNSFI1bktfMWx5UUdBcFNkS2tnOHZnZzc5cW05d0U0WExOT05hT2tSV01ybXpTdzBUWk5XQXRHZkFT?oc=5">Relying on AI carries risks, security expert warns amid China’s DeepSeek craze</a></td>
 <td>Relying on AI carries risks, security expert warns amid China’s DeepSeek craze South China Morning Post</td>
 </tr>
 </table>
