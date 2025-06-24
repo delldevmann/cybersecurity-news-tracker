@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity News Tracker
 
-Last updated: June 24, 2025 at 06:21 UTC
+Last updated: June 24, 2025 at 12:27 UTC
 
 > Automatically aggregated cybersecurity news from various sources.
 
@@ -87,6 +87,11 @@ _News about cyber threats, attacks, and activities attributed to China._
 <table>
 <tr><th>Source</th><th>Title</th><th>Summary</th></tr>
 <tr>
+<td><strong>The Hacker News</strong> Jun 24, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE1Cc3N6bFRNNkpLbUpsOW1Tcm1udVo0d0hjWUNKR0tvRnZMay1Qc1F5Nm9MemluNjNFTDZxRWtzeXE0UXpfeVMwVHpKLVFGTUNkOXpCZEF3RF82WjhrUG5qXzJQSnl6VWw3UWRTU2VuM1hBNkZoVTBxbUMza0pjUQ?oc=5">China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom</a></td>
+<td>China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom The Hacker News</td>
+</tr>
+<tr>
 <td><strong>The New York Times</strong> Jun 19, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPaC1fOTgwc0pkV2hha0tocWVzaVZDNEc3WHRBcUQ1azJrWFVjWVBhY1dkaUV0NzlTak01amxLcjg4cVNMbG9ZZXIzMmFPaFBFbjRiUm5mMlZjVG83Ty1xcnRxWjM0YjdHQk5RNGtYUmNFOGxrZkxOR0JiVVlPLUtlOWJXczVzZEJzYUlIZjFR?oc=5">China Unleashes Hackers Against Its Friend Russia, Seeking War Secrets</a></td>
 <td>China Unleashes Hackers Against Its Friend Russia, Seeking War Secrets The New York Times</td>
@@ -100,11 +105,6 @@ _News about cyber threats, attacks, and activities attributed to China._
 <td><strong>Hackread</strong> Jun 23, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE9fN1pNQlRiSU5mSkdQMWh1cG9SZmU3TG9DcmxtUzFaendma0diTGxTa0picC1rTE40QVk3c3FXZ3F4N09YdWtZc0FWaWtrdWVFa2hUd2NPWm5TZ1hoTzhGa3BoWjk4WGNSa3NXM09vdEVmQmJMOEYzMUtFM3U?oc=5">China-linked LapDogs Campaign Drops ShortLeash Backdoor with Fake Certs</a></td>
 <td>China-linked LapDogs Campaign Drops ShortLeash Backdoor with Fake Certs Hackread</td>
-</tr>
-<tr>
-<td><strong>SecurityWeek</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlo4V1NfSDVQb1NhWUthZnJkUjdqOVJueGN1MV9EVWR0Y0Joa3drMXRqOWJ0Q1lpMng0akIyMlFNVDBna0lfbEwxVUJBcWdTU0Fob3M2X2IwWlg5aFluYnBZN0ZDSGN5a0hJaVpYT0U5d0RRR2ZsNlRPbnl2N0Q0dFB3WjVWYWxxZnlFTS1McVPSAZYBQVVfeXFMTk1WMzRJZ3lBcnNlRlVRQ2ZoeXZrVnBoMk5qSVJqQ3VTLUtLaVlFRW00WHNWanpKdjk4ejk3WlJaZFdWeWcyckhQVEl2TUcybFFUZk1SY2ctcFlTZGpSNnhOSkJzMWtNVjhVc0pOWklDMWt1N0I4SHRrSTg0dElYUTlibE5aSjR6b2s3RUtuTGFRY0lIZHpR?oc=5">China’s Salt Typhoon Hackers Target Canadian Telecom Firms</a></td>
-<td>China’s Salt Typhoon Hackers Target Canadian Telecom Firms SecurityWeek</td>
 </tr>
 <tr>
 <td><strong>The Economic Times</strong> Jun 20, 2025</td>
@@ -142,9 +142,9 @@ _Coverage of cyber operations, attacks, and threats linked to Russia._
 <td>Chinese cyber threat to Europe on par with Russia’s, warns Czech president Financial Times</td>
 </tr>
 <tr>
-<td><strong>The Economic Times</strong> Jun 20, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMiiwJBVV95cUxQU2lCamhNbVdFckVqRGNxT2JPTkFBYndEaU9FT3hXVlM5VDlEWWI1VnRpdWlhaDdTSlltSDAzS1hsQlV2YWs2NDJQM2tRQmhOODdyN212OHFmejUzNTlJNFdUQ0ROQkMxSUkwZnFsbXVLVUwzZ0RCVnVESXJzZExXR1ZXZUM4dVUyVk1RcEtZTmtpc2Rva1lTUkJxajhkS3N1ZmVSWHVrUFBpUFNBMlRkZU1jby1teThjUHFuQnJtY2NGVFdwc0ZBWF9PaFM3Rnh2bnd1R2NTVkNCX1pQSTRueEZMams1Vlc5QVJmYk1nOWhLVlI4ZnNrcmVCeXlwRmt0TUpNVjhSdFBqb2vSAZACQVVfeXFMTVc0bE1KT1V6NXVxZ3ctNWVfSUZpOGowMGh3MWNWWXlXRlJRRm5VcnRQVk03Wm1RRnZkQXl0QVpIY1BSd3U5LThVclpaWTJoYUx5ZEx3R3BOVGJ6dUZHa3ZTUlZ5U0p0TEhRS2NUcUEtLVJFTHZDSTN0NC1LTmQyV1lvQlF0akVhd2hZcmEzNjAxQUIyUDVqRW9hLXVGV21sdi1XaUVOQzg1cTJvWFJtRTBtR0ctYlQ1SUhmeGtqMWNFSGh3My0ybEhFTEF0SmRoRktaNVQ1WGVtSU9GckxUV1ZuNjVOeU1zbXhWMWFHWTd0OHN0bmlrakdfV0hhVWg5VlhlZUNuaWs4anlkR244b04?oc=5">China-Russia trust erodes as Beijing’s hackers go rogue, launch cyberattacks to steal Ukraine war secrets</a></td>
-<td>China-Russia trust erodes as Beijing’s hackers go rogue, launch cyberattacks to steal Ukraine war secrets The Economic Times</td>
+<td><strong>Cybersecurity Dive</strong> May 21, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFBPZUpybEN0S21jRHY1dXVrTXpuUEozTEVJNW5mNWtBN0F4em9lZHJtcEV2VnRCblAxcXJDX3V3OVBRbTE0R2V5Ui1WalEzZTZrNm1nTHdZd3RmMXktdlpOWm4wOFVURXZHNERDbVhHdVY3dy15TWl2UURZTkRzSkpVSDMzSTdzZkhpZEpRS3ZQTjk2TlpwOFhlTlhia0R5WlhBeTMxdE1OUmc?oc=5">Russia stepping up attacks on firms aiding Ukraine, Western nations warn</a></td>
+<td>Russia stepping up attacks on firms aiding Ukraine, Western nations warn Cybersecurity Dive</td>
 </tr>
 </table>
 
@@ -157,14 +157,9 @@ _Reports on cyber activities and operations attributed to Iran._
 <table>
 <tr><th>Source</th><th>Title</th><th>Summary</th></tr>
 <tr>
-<td><strong>The Hacker News</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVI0SW9IQVZjbklFcXpBLUx6WUZteFEyeXdXNm5BRFY2MmlnMHpWc2J4OXFZX0UtV0c5UW16YmExM21Ib01YSnluQUN5VHpGZ2c5RFlfZU5HbGhkaFM4ZWtXRU15YVRCdFdaOVg0d3ZfTUFndHpNS0tTRHd4ZXY3MHc0WUQ?oc=5">DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes</a></td>
-<td>DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes The Hacker News</td>
-</tr>
-<tr>
-<td><strong>Politico</strong> Jun 22, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2xKSVB0UnV0M201bzlSY1R3T29lZGcwTXMxamphUXZJYkxRSEdKZEJkb29PLUQ5MUR6OVVENWtYSUh6T0dNMU9GMjl5MHVoOWV3QTNUOU1HX25keUFmVUxHaHdZNUkwQ29hZi01cnJPYmh4UGUxS20xTTFFRDJFZ2hmZERvWDN4NGc?oc=5">Bank hacks, internet shutdowns and crypto heists: Here’s how the war between Israel and Iran is playing out in cyberspace</a></td>
-<td>Bank hacks, internet shutdowns and crypto heists: Here’s how the war between Israel and Iran is playing out in cyberspace Politico</td>
+<td><strong>Infosecurity Magazine</strong> Jun 23, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE43QWgyaHlaRU05c3FoSmR2UFdyZ3JjeVY5UU5oMU9aWlVjZTVNS0JYM2p6MkJ0NzhTRzUtUGlvYldqLXUyMnh4SE5qNWVaeU9vVjh0U1lLUld3NjVnUXZuNGJPV0tOYkVSN2ZhMHRyZnJ4eVdEby1CNklxd29RZw?oc=5">US Warns of Heightened Risk of Iranian Cyber-Attacks After Military Strikes</a></td>
+<td>US Warns of Heightened Risk of Iranian Cyber-Attacks After Military Strikes Infosecurity MagazineFederal officials warn of potential Iran cyber attacks.</td>
 </tr>
 <tr>
 <td><strong>The Hill</strong> Jun 23, 2025</td>
@@ -172,14 +167,19 @@ _Reports on cyber activities and operations attributed to Iran._
 <td>Iranian-aligned hackers claim responsibility for Truth Social cyberattack The Hill</td>
 </tr>
 <tr>
-<td><strong>USA Today</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNVFlwRWNvWWJvZHRod3AtbzFEWDZ5SnJaQTZFdndwWEVSZlFQSW56OTg4Nmo5Q2tVUmJWNWtDTmZPT3FpRDA0TVdPVEYxLTBEV2NLOVB1N05TVHM4dVVSRjlKdkN4RlE3eDV0VC05MU9FeFBsZmhIOVJsQ016ZGtKMzJzcFZlX2NHbEJUdkJwMTdRZm5CVURkelczbWFuLXd2?oc=5">Federal officials warn of potential Iran cyber attacks. How to protect yourself</a></td>
-<td>Federal officials warn of potential Iran cyber attacks. How to protect yourself USA Today</td>
+<td><strong>Times of India</strong> Jun 23, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxQSEdNdE5kUzRnWDh5OVdHRTVyRmxEa1UyUHZYU3ZfenNiUTB6eVpxcm10TTUwSnB0dUZqTy1NcklXVEJad3dZYWVMdnZCZUh5b2N5SUFiRlVYZFFDSExZaTF3OUdWMDlaVzh2cFMweFhUU2NYbVRyMmNVSXBMSG5iN1JIVGkzakpMS213ejZxcTRRN1JSY3ZvV0ZiSTJiTFZucTFaNTY2cGg1RUFPN3JLbDk2UjlWbFd5N0toMjNlTUFTS29OU3phMUJEWmRMejdGUk0ycVpWTVdhcWF0dGVHSE9QSHF1VDNwNERxeHRHdlJzd1FlMmUxNm1JZTh1N25HRE1sQ2lNUE9GUjRFM0dxV3dxMDZtSXptUFHSAZ8CQVVfeXFMT21zbEtjUk90dlNGb0JtaXpoMkhJWXNwVWNCUjRGdmJvRW1jU0pWVGJhOVFmbHJld05nQWZyaDkyWm1WS295azVJeksya3hVeFQ3cnVmUHllZ0FKbmtELVdrc19IYWltTDBjdUZsaHBKdVdjelhISjhxbGFwS0VldEN2bGx2RTNNSEFNYjhOXzltT1I2SUJmYVl4WjZyMVY2V1NSUUdhako3Ynp2YlRia1J4ZkhFVy0wQVNyV3pZdGJzbElScTdKY0J4V2ZtOGFVMjJKWHVUNFZCRG51czd1dU91V0JzX3JDcmJ3MWJaUkQtcEJ1TnpjU0ViemVjMURmV245LUZ1MHNBMjFidkdTRUlTR1ZUS0EyTDZIYVpTcnc?oc=5">We are responsible for ‘Network …’ message on Donald Trump's Truth Social platform, claim Iranian-aligned</a></td>
+<td>We are responsible for ‘Network …’ message on Donald Trump's Truth Social platform, claim Iranian-aligned Times of India</td>
 </tr>
 <tr>
-<td><strong>Cybersecurity Dive</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUZDNW9aemduVnl5XzZ5bmhNWDV2YThCSEVaOUlBV2FpMWU4MDRTWFNuRnA5M25ybGRMSlBZMVg1YzVsOTZ4OFVjQkpsckNFelphMkQ4RzVlV0ItUFVuMVpVVmpYNGdGYkJSdmpwRlFzNk8weDA0S3YzWmhhYjRoQ28zY2tHV1V5SVVYbXNqemxLaE9SRVR0M3NjMjdrUU91RzhkV3ZNZlB3Q1dfdklz?oc=5">DHS warns of heightened cyber threat as US enters Iran conflict</a></td>
-<td>DHS warns of heightened cyber threat as US enters Iran conflict Cybersecurity Dive</td>
+<td><strong>Mediaite</strong> Jun 22, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkZNN2x4TUYtUUNPNEVpVDdCVWg3S2s4YVhDYjZSMDRzcUtTOEJzamszWllRZFBQbEg4aTRLckx2Uk9hNVAwejNlZmhLRW96T3dpWG1sYTJWRnRFRjVpWURNdUFwbzhEaHE1ajRpcnoxX1JCSHZXekdKWXZaYUM5NmlfNVpSRHlIRGdBbEZYTGlOc3N6UmlTcmZTWU9lMUlDazVQQUlvV1A5NHRxcHVRX0JhS1dSNEVlbGk4bmw5T2JPd9IBxwFBVV95cUxPYUZuWnEzZzFZUGRabFJtZThraEg3ejdvYUxYeDUxUDhuajBBSTE5NjQ4U2dOd3JaelMxNUYzZE5yQkZ0elhacEtQNXZqNjlhMVh3SC16QWZyUzZxRzBYR0xPTGVPYTRqVTF4SXZjTElwNjBzMWliMmQtUVNBeGNfdHVUMHZ4NDZMMFFEQzVlRV9qTTItRWF4bWlGMkx6QjMzWldmVDM4eWlIdm0zOU5SeDlfQlFORkgxdmJmZEpETkg2bVVGaXN3?oc=5">Iranian-Aligned Hackers Claim Responsibility for Attack on Trump’s Truth Social Platform</a></td>
+<td>Iranian-Aligned Hackers Claim Responsibility for Attack on Trump’s Truth Social Platform Mediaite</td>
+</tr>
+<tr>
+<td><strong>The Washington Post</strong> Jun 24, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNemprR0hkZEZyU1RHSVFiWlcxQVVqbVdxWGxUUVl0Ukp2ckh2T3dLNGJRY3hkQlllRDR5QzhzQ3VaNVA3YW1QQUpzV1Q4MHJBanlQekpTd3ZnNkRXVHJVUWJ5SHRwVmNyVm5Eb2V6amUtMmI0ejhHTUtrRHpsTkZzT0U4aE11b0JmeHZpWg?oc=5">Iran’s cyber forces have many ways to attack U.S., experts warn</a></td>
+<td>Iran’s cyber forces have many ways to attack U.S., experts warn The Washington Post</td>
 </tr>
 </table>
 
@@ -227,9 +227,14 @@ _Latest Common Vulnerabilities and Exposures (CVEs) affecting various systems an
 <table>
 <tr><th>Source</th><th>Title</th><th>Summary</th></tr>
 <tr>
-<td><strong>Dark Reading</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEhWclY1MlhvSWVaQ2N5UzNGanN0c0UxUzcxaGtEb05sRVVYS0pON2g2ME9ybUZYMENjMERqbW1iUEZ6SG5EdlMtaGlMYURmeHdoZ0RlRE01ZkRzYjh6azZuelVsMGt6NmJvTjBKemNRREFWM25wM1Q2S2kxLUMzX2xfMVNPRWdVOFVTX3p3Z3JUS2l5N3l0NDdR?oc=5">Citrix Patches Critical Vulns in NetScaler ADC and Gateway</a></td>
-<td>Citrix Patches Critical Vulns in NetScaler ADC and Gateway Dark Reading</td>
+<td><strong>Hackread</strong> Jun 23, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWdEdWRONHhWbzN6T3RaLTZMdjZ1ZlhFcDJ4cDZ3UktEdmtYQ3Rnb3U3dExsa2JaLWtjaTk3UlZyWFhjSkVwNjNkaEhtcE9WSnFoNUMwVENyWjNXOWlTMG5JT04xb1ZUQ3hZc2dxMXVwcmtudzN0VDBRQlctbklFTDAwZjgzWnM?oc=5">Zyxel Devices Hit by Active Exploits Targeting CVE-2023-28771 Vulnerability</a></td>
+<td>Zyxel Devices Hit by Active Exploits Targeting CVE-2023-28771 Vulnerability Hackread</td>
+</tr>
+<tr>
+<td><strong>GBHackers News</strong> Jun 24, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kcUVNazNPWEE0NDBMZkVBQmJEa3hFOHl3cVduYlNlejh1NWJna1MxT3A0V2plNmlGY2l2Z2QzaFdGdnRBampUak1Tc1lqWTd6U0VGc2t3a9IBXEFVX3lxTFBTUEo0YUVUcVpBTHNiTVU0MnVVbk9WSmFBODh0RzNtR3RhMVRJbUU1ZzFfWF9xTG55WmwtVlJscG1TOG8tUWMySWg2ZEhuMkxISjk2T3dGVV82b3g5?oc=5">Notepad++ Vulnerability Allows Full System Takeover — PoC Released</a></td>
+<td>Notepad++ Vulnerability Allows Full System Takeover — PoC Released GBHackers News</td>
 </tr>
 <tr>
 <td><strong>Help Net Security</strong> Jun 23, 2025</td>
@@ -245,11 +250,6 @@ _Latest Common Vulnerabilities and Exposures (CVEs) affecting various systems an
 <td><strong>Trend Micro</strong> Jun 16, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPVEg4NklEeUhfSTNFd0NKSVJyOEZIeEp5SnVmTndhRzE2VnRyX1c1SldsOWVySEE4N0ducVpUY01kZnJLT211YnZYMEdGTjRvVkUxUFFSaFlCQk96S3FyQk0yMk1mRWNxeE5rX3lJZnFIMmFteGNzaWc3Ym5MVXdQS0ZUSklJTWRPMTBkclA5UzNnbUk?oc=5">Critical Langflow Vulnerability (CVE-2025-3248) Actively Exploited to Deliver Flodrix Botnet</a></td>
 <td>Critical Langflow Vulnerability (CVE-2025-3248) Actively Exploited to Deliver Flodrix Botnet Trend Micro</td>
-</tr>
-<tr>
-<td><strong>Security Affairs</strong> Jun 17, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1lqUGFvSHd2YzJkRklSOVZXQ2pKcGJ4OV9xVXRURnMyLXA2eVBfSDlQaGRhNGxBQUdlUXpBWXVyVTktcmcwOEMtTVZQWFdVSWtoSFFyNXBDSC1nRkEyellqUkZpNGhsYUdiTFc0N3JrU0JwaVY4VHg5eHNkaUw5X3FQOWdDMjdiOF9HQ2NuV1dTRDJieGRaai1VeUhZNXVkZ1FOdGhR0gGrAUFVX3lxTE9YOE9hdGJobTFaUFcxTFRJc0JGdjAtdzFLQjI3WV9yNFJySXRTanBxSTVHc3ZFZkZkc1FOQnJVLVhQSHVuVTVoTlF3akt4NWpKYURoTUlSSGM5ZF9VZm9pa2xISm9EdmMtZl9OckZVOG9OYnBwX1l1dG5Od0UtbHZLbEZfNGZaWDVxWFFnZjRxYWFEMjNTRnc4TDhtSmR6MnB2LWdubEZia1oydw?oc=5">Attackers target Zyxel RCE vulnerability CVE-2023-28771</a></td>
-<td>Attackers target Zyxel RCE vulnerability CVE-2023-28771 Security Affairs</td>
 </tr>
 </table>
 
@@ -272,14 +272,14 @@ _Information about newly released proof-of-concept exploits for vulnerabilities.
 <td>CISA warns of attackers exploiting Linux flaw with PoC exploit BleepingComputer</td>
 </tr>
 <tr>
+<td><strong>SC Media</strong> Jun 20, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNX3dDRko5ZGlBQmNybmhKN2xOY2ZIYWlxY2xBeWx1ckJRaWFHck9Yemh2QjlNU0d6d1JMaXlSZHBLSmlrQnNXMFh5UmdVVlhBQzNMc05BYkliSW54SEVDWTNUQkNOWE41YXZJQk10ZTBrYTlXU2gxaERpV0RPVHkzd3lKUzFCeXdxUElLaVRVNXV1QmxWdUE?oc=5">Jira tickets become attack vectors in PoC ‘living off AI’ attack</a></td>
+<td>Jira tickets become attack vectors in PoC ‘living off AI’ attack SC Media</td>
+</tr>
+<tr>
 <td><strong>Infosecurity Magazine</strong> Jan 10, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE0yVklxSW5saWlfQjN6aG5RaXltSENxckdXdlZRNzVoMkU4Z3B1eHdPNk9QYnpPX1AwVXN5R3R3SlRQVXdHTXRFT1ZNbHNvaW8zMHEwN3JhVzJ6VlFaUjM0ZUFnMHg2WG9iRVU4U1N3VGlybnA3TV8taEhPOUQ?oc=5">Fake PoC Exploit Targets Security Researchers with Infostealer</a></td>
 <td>Fake PoC Exploit Targets Security Researchers with Infostealer Infosecurity Magazine</td>
-</tr>
-<tr>
-<td><strong>Dark Reading</strong> Jun 10, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQM2dNVjk1c1AwVy05bm1rTkVGUXd5MkYzeDFfeWtxVmZ5RlVhSWlFTjFYUmRSU2V6cndFOWJreEU2eVp0RWpIODVyYmFQTEZjakZXb2xMX096U19DQ3RYcHhVMGc4NjJ2QXdRTzUwTXlHbjhmaWZGbnVkNnRMcnVEcUtUclRyd2tOemluSjQybkFyVkE?oc=5">PoC Code Escalates Roundcube Vuln Threat</a></td>
-<td>PoC Code Escalates Roundcube Vuln Threat Dark Reading</td>
 </tr>
 <tr>
 <td><strong>CyberSecurityNews</strong> Jun 09, 2025</td>
@@ -302,24 +302,24 @@ _News about vulnerabilities actively being exploited in the wild._
 <td>China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom The Hacker News</td>
 </tr>
 <tr>
+<td><strong>Hackread</strong> Jun 23, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWdEdWRONHhWbzN6T3RaLTZMdjZ1ZlhFcDJ4cDZ3UktEdmtYQ3Rnb3U3dExsa2JaLWtjaTk3UlZyWFhjSkVwNjNkaEhtcE9WSnFoNUMwVENyWjNXOWlTMG5JT04xb1ZUQ3hZc2dxMXVwcmtudzN0VDBRQlctbklFTDAwZjgzWnM?oc=5">Zyxel Devices Hit by Active Exploits Targeting CVE-2023-28771 Vulnerability</a></td>
+<td>Zyxel Devices Hit by Active Exploits Targeting CVE-2023-28771 Vulnerability Hackread</td>
+</tr>
+<tr>
 <td><strong>SecurityWeek</strong> Jun 23, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUVmdkxYTGVXbWZUc2V2RTluVTk0S0Z5ZHZyUXJFU3VNWXBUTE1HeGtTY1UycHhrclEwSkNtd2NXeFR1eWxIWDNERWxQM0Znd1BSNHlZYmZFT1N5dkRITjh1UEI4MUswemNlbmEtTnRFZ3JoNHh0QllRYVFpbnVOeDRfRUhZZWZ4bVAtRUtB0gGTAUFVX3lxTE9odTk3LTg3cUk1MENjY0JLSkxWWnRtRk9rajVndzZjVVpVdWM3YXN4VVhDVE9pQ1RVZGRBeFpFQWQ1Q0VuTkU4ZHNhSzBiQ195cTRyQlhxbFVfLWNpQUNtTkEzY3lHS0NYU05OZXEwd0hrTXlqekdDX0cxRTRoMmF0bVlqV2NMX2dvVEhzWlp0Q3Fxaw?oc=5">Critical Authentication Bypass Flaw Patched in Teleport</a></td>
 <td>Critical Authentication Bypass Flaw Patched in Teleport SecurityWeek</td>
 </tr>
 <tr>
-<td><strong>BleepingComputer</strong> Jun 21, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1E4b1JIcHgyVjRCeUJYSE55X3dQbTAwSWx4M25TV3RJUGlIN0FxeFdLamd1aUZKY2RycTNGZU13X3JsdGNvRkRnbUVqZFQ1aUotSXA1WEJsbzFGRWNSQjFldHdWZnQxV19LRFlxbUx6Z19NaG9IRmxhQUkxc2ZFZ2kwTmJlTEdOWUhYX0ZRSkREX1NkbUdReHQ5d1JkVm9WQ2tFUncwOUFxaFpEcWlZR0pqajhyUdIBuwFBVV95cUxQSGRXUy1OMTkwNTViWU1YMVVFek1iME1pLXZpUmh0Q2JVUWphYVNOTk05cG56aTBidnZETVBnOHhDVnJVRjRjelBsYVpEako3a1BPZXBHM1c3M1ZONHozT0lvd0VTTnk0YWlibXlDSXYxMW82NkxfdmhOZDRNTXd6UzJLaW5Cakp4c18yM0x6MUluY3ZZeEdkclBhYjNtbUtzTEVCQXZZYnAtMzl4S2VxcEhLTVFhZ2xCNExj?oc=5">WordPress Motors theme flaw mass-exploited to hijack admin accounts</a></td>
-<td>WordPress Motors theme flaw mass-exploited to hijack admin accounts BleepingComputer</td>
+<td><strong>here's what we know - TechRadar</strong> Jun 23, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPcHFZdGVYTERrbUViSk05RkFOVGt2V3FXdkp5NXl0ZnhsdHJmLW5WWUdoZEhDTFpsc2h2WnBqSlpqN1BqSEh3blFKZ2V4MTdlMnBvbWJZQVl5Z0J0RlNMU3lKUVpiMUYtU2ZYYUdnYnIxRlU3YVpRNXhWLTdTWnc2M2IybnlBcWdLdlBLNjQzWVprMVB2ZjFCWHIyQ0J0a2VfTVVtZ2FR?oc=5">A popular WordPress theme has been hijacked by malware</a></td>
+<td>A popular WordPress theme has been hijacked by malware - here's what we know TechRadar</td>
 </tr>
 <tr>
 <td><strong>Help Net Security</strong> Jun 23, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWpHMHBLVzgxUDYzWkswZTBmM09Ia0UtbFpVaTU1UFV2MmpBNUFiNS1lRkx6cFlKXzlNcTdCbjd4UW5ENllkR09HUzQ3LUJlR05NRHRyMGg3ajdZSTBVa0h0eWhpTE1rWjJTaWZtV0JBNVhpWXhmZkRLUzlqYjh1bmJzU2s4R1RiaUdmaTlpU2dPbmxXT3IwbFl1ZjlEaGpFNnJkeE5iYkFSQQ?oc=5">Critical Citrix NetScaler bug fixed, upgrade ASAP! (CVE-2025-5777)</a></td>
 <td>Critical Citrix NetScaler bug fixed, upgrade ASAP! (CVE-2025-5777) Help Net Security</td>
-</tr>
-<tr>
-<td><strong>Ars Technica</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOVnpkRVJGU1FNenNDMnlLQVpTRUlzYVFHb092NVdUYUNWSjNIVklveEp0UkwxeXhwYjEyY01pdDRRbnJ6dEItenF6U0Z0dzFnQl9VS2dpaEtjNXhnNFhPWFRLejR2RjFpUkZLVFk2NUNPY1BEV3BBV19qZGNrbG8zUEhERFM4azJkb1M4M0ZNb1lVNUx3ZVYwYWpmWTVXeXJuX2xoRDRCY1p5dzVLbTdKRWRNcWQ1RHJMMUxxMjhB?oc=5">Canadian telecom hacked by suspected China state group</a></td>
-<td>Canadian telecom hacked by suspected China state group Ars Technica</td>
 </tr>
 </table>
 
@@ -367,14 +367,9 @@ _Major cyber attacks against organizations, governments, and infrastructure._
 <table>
 <tr><th>Source</th><th>Title</th><th>Summary</th></tr>
 <tr>
-<td><strong>Cybernews</strong> Jun 24, 2025</td>
+<td><strong>Cybernews</strong> Jun 23, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWW13cklHUW1aWXUxeFZZOTYzMU1nc2pkQ1c5YVFzSXVFY200ejVZczAxVTlSTS1RckxNTXRrcHNhU0xnM19rSGZ0RE44cjJsVi0wMkFnM1Vuc1UtekpHQVdvcmlGdlBwV3R6eERnaVVJMHRLM3JqNlJqOG80QmFjZ1VLWDh3aXUyY0k0?oc=5">16 billion passwords exposed in record-breaking data breach: are you affected?</a></td>
 <td>16 billion passwords exposed in record-breaking data breach: are you affected? Cybernews</td>
-</tr>
-<tr>
-<td><strong>Cybersecurity Dive</strong> Jun 20, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPN2VlV3RQeHhvRnBCTkxxOXp5TGIwOVM2UXV0UHFLcG1GSktZWmFlaFY4T0ZIb0phUVMteUpoNzNVeUk4eHdJbnJsMWtkQmRHQVZ4RlRKUFRodFlxY09VLTFOVHlFMHJEYVc1dzRIbXVRNHlRVThBMFdDeFhNN1hyMjRjS2NSSzg?oc=5">Aflac discloses cyber intrusion linked to wider crime spree targeting insurance industry</a></td>
-<td>Aflac discloses cyber intrusion linked to wider crime spree targeting insurance industry Cybersecurity Dive</td>
 </tr>
 <tr>
 <td><strong>Politico</strong> Jun 22, 2025</td>
@@ -382,9 +377,14 @@ _Major cyber attacks against organizations, governments, and infrastructure._
 <td>Bank hacks, internet shutdowns and crypto heists: Here’s how the war between Israel and Iran is playing out in cyberspace Politico</td>
 </tr>
 <tr>
-<td><strong>SILive.com</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPOTdIUFM4Vk1GNElFeDJNcDBDSW9hQkhzdlllcUtUZ1hmU0xHM0IwNzlUc1daSWFnMDlGNHQ2V3FJSzBZeF9kTEJ5NGlENHg4QWdDei15N0VJOUhud0hMZ3g3X0RZQUh3VnlXR2U0aGxHNkdmS3QyV2wzMExpWHhyN2tTSWxLQ3JyR2VER1g4YUxyN0RGVkRtR3M3SHZ3ODZCRkROd2VkR2toU0I2ZVl2ZUo1UXItNnVnMGVfTXRCRFEyWHN1cUHSAdoBQVVfeXFMUE12TjVDYkZqd3I0SWJXRFF1NUVJNHVKUE4xUmRZSTUyV0hzX0hJc2E4ZndaRmJnOTB1U1dlOUx2Q2Q3NHlpbjF1dktEMHkxc1BRZ29oZlBjelhTWUtRN1Q4ajR3RTh0Qk1keHdYOERPSnBjenlXQVVWeHdTOXFOTU9FamdPZE9SMzVtcjVGcVE1X0J0ODc2Nkcxejd4VjFPc2Y0WmgzcFhid1BjYnNIQzd6Y1pENXI2dmZRMjJKQjY0eF9fQTU0a0Rwa1NqN3lkeEhJbG45Vk9wN3c?oc=5">Major insurance company discloses cyber attack: What you need to know if you’re impacted</a></td>
-<td>Major insurance company discloses cyber attack: What you need to know if you’re impacted SILive.com</td>
+<td><strong>Cybersecurity Dive</strong> Jun 20, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPN2VlV3RQeHhvRnBCTkxxOXp5TGIwOVM2UXV0UHFLcG1GSktZWmFlaFY4T0ZIb0phUVMteUpoNzNVeUk4eHdJbnJsMWtkQmRHQVZ4RlRKUFRodFlxY09VLTFOVHlFMHJEYVc1dzRIbXVRNHlRVThBMFdDeFhNN1hyMjRjS2NSSzg?oc=5">Aflac discloses cyber intrusion linked to wider crime spree targeting insurance industry</a></td>
+<td>Aflac discloses cyber intrusion linked to wider crime spree targeting insurance industry Cybersecurity Dive</td>
+</tr>
+<tr>
+<td><strong>Tom's Guide</strong> Jun 24, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9UcHN0TWJ4eFRQdVNIRGNkQThxZnRkWmpsUFpYWU9KUHI5QmxmSEY4X3FwbWlaWnFmdzFDUDNfOE44RG5wWHRINFdEaWRYbVd0b3lqWDZTa2YzdVR2M05uRlhpaDRBZVFMb1pVYUdVNXNPMlBoZzFz?oc=5">16 billion password data breach hits Apple, Google, Facebook and more — LIVE updates and how to stay safe</a></td>
+<td>16 billion password data breach hits Apple, Google, Facebook and more — LIVE updates and how to stay safe Tom's Guide</td>
 </tr>
 <tr>
 <td><strong>AL.com</strong> Jun 22, 2025</td>
@@ -417,9 +417,9 @@ _Security issues, threats, and protections related to cryptocurrency._
 <td>French Crypto Chiefs Step Up Security After String of Violent Kidnappings The New York Times</td>
 </tr>
 <tr>
-<td><strong>Altcoin Buzz</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOYmNpUmI0RlNRd1dLOVVFWlNzakRCN3R5TndmeGxVYVZsVTA3VTNwcTZCMGZGb0ViVGhaeGNNVURJNVRTTW9YYzJFNEl5TGtzU3dHLUhHLWRFWGl2YUdyMldSVHpZRVZlck9zbUxSbFB6dUY0dFdhSWNlekRtX3pUTVEzc0JrUVZxWWMtekVsNWFkVDNjaHJCQkQ2Yw?oc=5">16B Login Leak Puts Crypto Security in Jeopardy</a></td>
-<td>16B Login Leak Puts Crypto Security in Jeopardy Altcoin Buzz</td>
+<td><strong>CNBC</strong> Jun 07, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNemt1QkVSOTc0aEREd2ZibFZPOTB2MXZoS1J3T0NJajMtdjlRMXZTSUt5djdqTXpBeENtUzdEOUlLOWFuTG8yNmh3X0d0Smp1S1ZUM1hPQ2xjNGhsTXNCd0ZvcHcxamxHTktyWDZ1YlRQMFJRTDRaWHQwbzlDZ2xCVHQyUE1jUdIBiwFBVV95cUxNTTNwUWdNcXQ2UFFWVzVyVEZTOUo2VHdqLThGRk5VeE1EcEp5NVJNUTlsd1B1Y0RoMENLLVdqZ0x5aUh0QXBYanJ0Nm03MGl6VW02Mkc1ZkRybkcyVnh0Y3JTRzBZZDc2c0NHS05iZlNoSVNNNlJlT0FvZVI5a0JvSjRBdVdIUWxyOTdr?oc=5">'Bitcoin Family' hides crypto codes etched onto metal cards on four continents after recent kidnappings</a></td>
+<td>'Bitcoin Family' hides crypto codes etched onto metal cards on four continents after recent kidnappings CNBC</td>
 </tr>
 <tr>
 <td><strong>Reuters</strong> Jun 18, 2025</td>
@@ -477,24 +477,24 @@ _News about cyber espionage campaigns, operations, and threats._
 <td>A sneaky cyber espionage campaign is exploiting IoT devices and home office routers – here's what you need to know IT Pro</td>
 </tr>
 <tr>
-<td><strong>CyberSecurityNews</strong> Jun 24, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXI3QVJFVU5Qdkh5YV81VVhDWlIxa1kyXy1yRDE5RGhuWU1HQUdHcERpcFBJR3JHaGdPREhrbV9zekZJMEVsSjVzOU5ueFZVWk14NDFTb2hMWDFkSTROUHVHM0xBUmxhWmYzSjVuWVRGYzB4RGZ0SVN2Z2lKM2tVeDNwQ0vSAYQBQVVfeXFMTXlyN0FSRVVOUHZIeWFfNVVYQ1pSMWtZMl8tckQxOURobllNR0FHR3BEaXBQSUdyR2hnT0RIa21fc3pGSTBFbEo1czlObnhWVVpNeDQxU29oTFgxZEk0TlB1RzNMQVJsYVpmM0o1bllURmMweERmdElTdmdpSjNrVXgzcENL?oc=5">LapDogs Hackers Leverages 1,000 SOHO Devices Using a Custom Backdoor to Act Covertly</a></td>
-<td>LapDogs Hackers Leverages 1,000 SOHO Devices Using a Custom Backdoor to Act Covertly CyberSecurityNews</td>
+<td><strong>GBHackers News</strong> Jun 24, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFA4dG9GOExyeDhJOXUwcUVxemwxWVd0WXYtUC1xTm1mSXhWSEpBTWd6MkNxdUFDaXpvZmJTOTVwOEduNC1FV0Jqb240dmkzdG9VTTVMYzNQR2ROZHhuWERBTm9taDZ3OXA4YzZCMHVHM04ybmZnZGfSAXtBVV95cUxOVEhnUzJ2SVhIM3BCX2dmNzBIa2FmUHRITEZ3VEE5X3F0clNZcGtDQUNIOTd5dGd6cjkyT19UT2JPcXk4WFlQdERoVXVrLW45WW9seUhMb0NsQ3c3M01ocmZma3ZwVmFLY2FPZ2lTdzlCOWRqVzVQRkhCcjA?oc=5">LapDogs Hackers Compromise 1,000 SOHO Devices Using Custom Backdoor for Stealthy Attacks</a></td>
+<td>LapDogs Hackers Compromise 1,000 SOHO Devices Using Custom Backdoor for Stealthy Attacks GBHackers News</td>
+</tr>
+<tr>
+<td><strong>The National Law Review</strong> Jun 20, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0RiaXhNSGowbGNPNnNUWDJCa3BqU3VVZU15OXhCWk4xVnRfLXYyR240cERtSzdaQ0VFMllqY1ZOVGFETzV3eU45OHZnbzhxU3ZTMDh1aGhjbVhIQlR4UklGSXozaXFydW0zUlozelBIVThFeHdjMDNER0FvdWVLUS1tczJjamxIQzYzMFlXV29fY2ZEcU1YUnNTQ0ZDZnZyZ2N3NHJNa9IBrAFBVV95cUxQT2lwR0VEdEdsWXVFNTktZ0RxTmRFNE45NHdoMml4UF9vbk51WTVrTGhFaW1oMEgxaHZ2THM5TkhKX2N1T1Z4ZW9JTUtXRzhzS1p5TUFRNlpDeGt5NEl1N09nVWR4STI5OFNwOGpGWVhoUDJ4STBsYzJCUkFhcTRUSVRSY2N4VGtMZjVEemR5MEI4ZjlyUGNQRWZMYW43aWlyNjlmWXBLX1JwMjdy?oc=5">Senator Cantwell Demands Proof from Verizon and AT&T on Salt Typhoon Eradication</a></td>
+<td>Senator Cantwell Demands Proof from Verizon and AT&T on Salt Typhoon Eradication The National Law Review</td>
+</tr>
+<tr>
+<td><strong>Security Affairs</strong> Jun 24, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPUE9kR2UzUEVBRDFFZ29fTGNYTzBKUEprMl9QaXdVb1dKU0tnQnlmaVlGR1JqbEFOeE5XVklhV09uNU9BNUFGNW9nVnFZUXRkZjdiMkJHb3hIYWRXaTJ2TF80QXBLUjl5QnFMd2xid2dReC1MbC1hak12bXNQNElzZkpydUJ2U0ZXTkxMbUI2VWZBOGRkX3hNWUJIUWxKRk9kelVYR3k1QUtzdExm0gGyAUFVX3lxTE11V2RySE0wOGYxVml0NmxlSFA3MlQ5UnQzZGs1Yk9aei1UVXdRbGVFeEkwaC05T0FvdDl4Qm8wdVlfSnpaVnVpY0ZCRHFLVXZBTHFJNHM1T0xwalFGNVpieDBiOUx6U1B2WlRtVzZYVmN5TERBMllCOGxhcmktRUhCVktmZDFCZkdpcnBxa2x0SGZiR2x6X0RzQk8wSXdkLXF0WXR4TFRnazQ4WkFDY21TRGc?oc=5">China-linked APT Salt Typhoon targets Canadian Telecom companies</a></td>
+<td>China-linked APT Salt Typhoon targets Canadian Telecom companies Security Affairs</td>
 </tr>
 <tr>
 <td><strong>Dark Reading</strong> Jun 20, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOb1R3eFl2bkpMMC0yNjAxYnRKUEhzVkZkVzhFeV9sRW9RNzhSSnUtTnQ3YjY5SG5CNU8waWxPZ2M2RGsxOGJJWlZYdENZenBzM1R5V2x1ZmpyOVBsenBuYWlIa0FuRzlVam1VLVBKdDRLWklvUDVkMldoc2JZRnVpNm40WTQyaGl6VWRFVGgxbTBXM3ljNTcxNWpfRHU5dw?oc=5">How Cyber Warfare Changes the Face of Geopolitical Conflict</a></td>
 <td>How Cyber Warfare Changes the Face of Geopolitical Conflict Dark Reading</td>
-</tr>
-<tr>
-<td><strong>The Hacker News</strong> Jun 09, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFh2dXh6bVpmbW81TkltdzJvT0dZaS1jVlA3Y3pxVkJ5YXQyRU4xaG1HRkVHNU1nbFlRZm5Ca09ESU9FUXVXaTQtcVlGUGdBLU15dVFVMElxektGeTgycTNJUTd3UzBrUGFXdl92djR4X3dlMzgwRkEydjYzbDZ5QUl3?oc=5">Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group</a></td>
-<td>Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group The Hacker News</td>
-</tr>
-<tr>
-<td><strong>GBHackers News</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5oTU5NcWZRNV9temdqYnhUbUplZGVLSWM4WXNEUDlxbVVsX1JIOVFfYnNLckpFSWE2bHU1LUxtNmFGSzM3WGxSdHEzZDhuOFo1bEFLSVlfT1ZfVHZxcDRwN21ZZEZnOS1WenY2bDZjOUhua3JpLURJ0gF8QVVfeXFMTVY0cTVxV0E1a1FCRl9hRTBOSU9uekZDcXh5dklpR1NOMkJ1NHVhZEZ1c3hkejNlLWNZZmN2MXJpbUU1LXI2dlFKUnF2NmZpcEI1OVJiM2RtOGk2SEgwMGFpRnZZNWFaYTF5dHlrazQ1aHp3QzVoNnI1VzFZdA?oc=5">APT36 Hackers Target Indian Defense Personnel with Sophisticated Phishing Campaign</a></td>
-<td>APT36 Hackers Target Indian Defense Personnel with Sophisticated Phishing Campaign GBHackers News</td>
 </tr>
 </table>
 
@@ -612,24 +612,24 @@ _Political and policy perspectives on cybersecurity from Politico._
 <table>
 <tr><th>Source</th><th>Title</th><th>Summary</th></tr>
 <tr>
-<td><strong>Politico</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXhXa1k0M0thZEdMSFJDR0E4LUF4VzBxaFE3OHE4Q0NTT1k2QkRqV04xOERFR3FWSEwwemQzQ09iZ2FTV1NzTFk3RDJJQ1JRdU5taVk0eXJPb3E1Z3gxWGFnYW1Tb3pKQVFVNUlFeUdUVWZVSDhSalpaYk9uSUtrODRTNWJpN3dKMGdPcTVaQmQ3VVVfRE1iYVdTaUVyeV9mSXhraWg5Mm1rMmU4Y1pWZmV3?oc=5">AI slop spreads in Israel-Iran war</a></td>
-<td>AI slop spreads in Israel-Iran war Politico</td>
-</tr>
-<tr>
 <td><strong>Politico</strong> Jun 06, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQQlpxR2F3cl9ibUJlQzB5VzRkYUV3ZGJSZ3BNblBnUkJSYVZYYVdOd0tzeS1xdDFQT0U3SjhzWmFsa1BEall6LVVBRS1uelhlUjJPNnZ2NWFVUmNJVXZHcXZ2eENTcWc5OHlldFltc3JCMmtHUms3N0l3T29BVU9EbDNnWjJ5ZmxtQlFZWkJ2YVRVUDFNZ2JKMnlR?oc=5">Trump executive order takes steps to protect domestic hackers from blowback</a></td>
 <td>Trump executive order takes steps to protect domestic hackers from blowback Politico</td>
 </tr>
 <tr>
-<td><strong>Politico</strong> Jun 18, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGR4TW53YnF3bFJnQzh4Uktscm5JQTEyVm5aVlVOVTZsOGtsMGVDY2lLb0xHY0xOQldXcEdtMEVrNUR4Vk1mZjBQR1pnVkprbnZLcFUzWWhaU09QQ3RfaGQ4NEJHVXFQQVJmNmlQbC1tTFkzRGJFTmYxczZvRldEM3JqdGN3VjVKaDZNcVR5UTczd3ZhcVdjN2stWQ?oc=5">US critical networks are prime targets for cyberattacks. They’re preparing for Iran to strike.</a></td>
-<td>US critical networks are prime targets for cyberattacks. They’re preparing for Iran to strike. Politico</td>
+<td><strong>Politico</strong> Jun 23, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXhXa1k0M0thZEdMSFJDR0E4LUF4VzBxaFE3OHE4Q0NTT1k2QkRqV04xOERFR3FWSEwwemQzQ09iZ2FTV1NzTFk3RDJJQ1JRdU5taVk0eXJPb3E1Z3gxWGFnYW1Tb3pKQVFVNUlFeUdUVWZVSDhSalpaYk9uSUtrODRTNWJpN3dKMGdPcTVaQmQ3VVVfRE1iYVdTaUVyeV9mSXhraWg5Mm1rMmU4Y1pWZmV3?oc=5">AI slop spreads in Israel-Iran war</a></td>
+<td>AI slop spreads in Israel-Iran war Politico</td>
 </tr>
 <tr>
 <td><strong>Politico</strong> Jun 09, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdi16UDRaT1k4MWRKaTVkNlpxYlY1TE1VSUxuUnFoQ2t3UFpxeVJXdTh0bHo0MW1TX0dmVVJnOF9aX0U2Qk5FNklBbTZseElYdXlwcHZrb2I3aEZIWDVPRzFPZFRGd3JtV2p1cF9SVFFWLUozenNCczd3SVk2dkNfWlJuNFdBdWxkbXFpZ0lKenpCNk1ncjk0Z3NYd2JfNjNtTkJmVGV3VWt4bVZuNndoZVVmQzRxaWNfSWhqa09CR0FwXzkwNVhWWHhLSkV6ejZUNDEzSFN3c0p2cGlMWnZZNEVOeWR4a1l1aGh5WmMtSQ?oc=5">Trump’s cyber EO kills Biden-era digital ID policies</a></td>
 <td>Trump’s cyber EO kills Biden-era digital ID policies Politico</td>
+</tr>
+<tr>
+<td><strong>Politico</strong> Jun 18, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGR4TW53YnF3bFJnQzh4Uktscm5JQTEyVm5aVlVOVTZsOGtsMGVDY2lLb0xHY0xOQldXcEdtMEVrNUR4Vk1mZjBQR1pnVkprbnZLcFUzWWhaU09QQ3RfaGQ4NEJHVXFQQVJmNmlQbC1tTFkzRGJFTmYxczZvRldEM3JqdGN3VjVKaDZNcVR5UTczd3ZhcVdjN2stWQ?oc=5">US critical networks are prime targets for cyberattacks. They’re preparing for Iran to strike.</a></td>
+<td>US critical networks are prime targets for cyberattacks. They’re preparing for Iran to strike. Politico</td>
 </tr>
 <tr>
 <td><strong>Politico</strong> Jun 16, 2025</td>
@@ -687,14 +687,14 @@ _Breaking cybersecurity news and developments from Reuters global news service._
 <td>Insurer Aflac investigating possible data leak after cyberattack Reuters</td>
 </tr>
 <tr>
-<td><strong>Reuters</strong> Jun 17, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNOVJ0MTBKUm9BWHAtSDhvZ05LZEFLcG1JLVQtTUZTNTYxZ19weWR6TFJZS256WkNDVFJDMi1rYW5NU0k0ZXA3LWJxYnBuYVNzM1FpRWlvdUlHM3JUaDBJSGZfR0h2eVctdGZ4NGNESTZzaFRCVHpadHdzVF9LQy1CWFFPSDluMW1DdnRPVGNOQXJHanZQbWpJa0J0LWlKLUNBM0t0Nklubk1TTlVENGE4?oc=5">Italy's Leonardo buys a European cybersecurity company</a></td>
-<td>Italy's Leonardo buys a European cybersecurity company Reuters</td>
-</tr>
-<tr>
 <td><strong>Reuters</strong> Jun 22, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOMEd2T3JSQmdnRkdKbWdLX3dhWmJsT2ZKZTlSaUNaUWt4WlJuRHhWT1A4M0NRNkpSa2NhMW9HamYxbXVwMGYtOHdseVo1d1F6TUw1SWlkc19tRjJMNjB3ZHd6aW8zY2EwV3UyYXhtY256cjE1c2x6VHl6WV9pWUlKMTlyM0kwdnNLMno5ekhldDUxWFhJWkdLcVItUnREbVdNZzB6dlZSOXlrcU9WT3NZT25od3A5TGloUW5Kcg?oc=5">Advisory warns of 'heightened threat environment' in US after Iran strikes</a></td>
 <td>Advisory warns of 'heightened threat environment' in US after Iran strikes Reuters</td>
+</tr>
+<tr>
+<td><strong>Reuters</strong> Jun 17, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNOVJ0MTBKUm9BWHAtSDhvZ05LZEFLcG1JLVQtTUZTNTYxZ19weWR6TFJZS256WkNDVFJDMi1rYW5NU0k0ZXA3LWJxYnBuYVNzM1FpRWlvdUlHM3JUaDBJSGZfR0h2eVctdGZ4NGNESTZzaFRCVHpadHdzVF9LQy1CWFFPSDluMW1DdnRPVGNOQXJHanZQbWpJa0J0LWlKLUNBM0t0Nklubk1TTlVENGE4?oc=5">Italy's Leonardo buys a European cybersecurity company</a></td>
+<td>Italy's Leonardo buys a European cybersecurity company Reuters</td>
 </tr>
 <tr>
 <td><strong>Reuters</strong> Jun 04, 2025</td>
@@ -717,29 +717,29 @@ _Business-focused cybersecurity news and analysis from the Wall Street Journal._
 <table>
 <tr><th>Source</th><th>Title</th><th>Summary</th></tr>
 <tr>
-<td><strong>WSJ</strong> Jun 19, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMipANBVV95cUxQNUJKSTZEZkx5cnZfanMzc1hqcEUzNFEwdG10OGZOQWk1UHZrdGh0S0NfSThzS0VoOEVKcjliekNLRTZMbjQ1MDFkOGVxOWJ5a2RlM09UbC1sYno3TDNScnZXM0xuWlhybUgtT21oRmNvOXBVcGU4NzJIb0MyNlA5WlBMSnhQVF9vSHNFekxhdmMwc2Rjb3J4UFdvbXNHb2dWQmVmbzU4OTlBYm90VWZPNkhsRVdqX3JKODU1Sk5fR2lsNWYyTm9uWHFCckwwM3ZVRF8wdE9menpFdDBUZzJwdUVldnBydWxiOFZqWGtKS1AzZV9QV0RkdEdSaHRCeE9xSUZVejFUQXVkUnlYSmYtMkxfbEtwR1UxRUUzMWhBbXpsV2VqXzVqM0FYMTJOQ0pGbTdBMzl2Zk4zSkN3bXo2UFM4OWxidm9ZNmYtZ3lnLWpWZHZDdVUzZzNSRG11Nl9YTzFrR0J1TU1HUnR6UGIwSEN3SmhJMDFYc3A1RlY1WTRnRFBodkdCWFdLbnNWSFZ0cWEyNl9kdDh0WmpRR1V6WmFaZ3I?oc=5">How Hackers Are Turning Tech Support Into a Threat</a></td>
-<td>How Hackers Are Turning Tech Support Into a Threat WSJ</td>
-</tr>
-<tr>
 <td><strong>WSJ</strong> Jun 15, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMiwgNBVV95cUxOalk1ZVNnMGdQS213MkR4Nng1RGVjbzZFU2FmWjA5dDNOTV9JQVNhc1ZVNGxNaUo3NjY4MHhxX0NjSGQ1djdUamNnX0VCdlZGZlozaDJrNmMyc3NNa2F0bjV6cGNPNENHN3p0Qm9hcDlaM0V0TXlPQUdoOC12Ty1SZEtfSHl4T2JROU5ZU2lFTlZmNFpsTnZCOXU1QVNNdXZSWm1RRE1wd2dlWURQdHRKanF5VmlIWHFlMkpleEttYS1uTXo3MXdDVzNoOVFvTHFMRVBLQWYtSTc1Zmt4S3B4T0RiaVJ2RFdQOUJpTFdoMWtSM3hadDQtSFpkUkdlZjV3Rmd6MklzQUxwWjgtMjB6TGotWkkxZjFuT1hZbFRlLVVtdmxUT2FYdUt6YXlfNmo1akNkVlYwUWNPRzBzdEE4ZEszaU9ReHBKUzlKU0tUQWI4OU14R0pDRDdiVTdkRWpQNktqY2V1dW4xZFIxbWpCVHVlTVdBOVBISlNLNWlLWjNNblBqTUwzUXRySlRfTmZSZ2h5U0pvUTVzWVpiQ1AtSE9pTEhFS1Nka2lhaV80VlVJYUEyaHVtQVBnVmdzdklyOEE?oc=5">Exclusive | Cyberattack on Washington Post Strikes Journalists’ Email Accounts</a></td>
+<td><a href="https://news.google.com/rss/articles/CBMiwgNBVV95cUxNVlEzUnM1SFJsNVplcUIzQWhZR1dhVUJESHNDR3RpbFU5Sk4tQlV5TUVUYkVjYTVBeU11YzhhZHZYcS1ZcWx0czBtNUVyZDBLZENxUFJoWDJ3ZWJkUE9mcF9UVXdHUk15YjFGQzVjRmNKSGVmSEFwTUNFbzlzOXFESnhHbEtHVHRwemxJZGxOTDlkOGp4NWIwUm4tX2J3aGJJX21BWlEzSFkwUm5lQm81UVVDTHpxX3B3eF81QUtqT1hKcnk1bkc1cDhHek1PT2E0Z1doX0FWRmVBNHZMb0ZMalVhWi1NNWJBTmZsa2FhZ01raDZwMjQ2WldiSFRFSEUwNVhLSU0wVWIwYVM4bTFxLUNvaERPRWJiSDhSRE5KbzJmWVAwTXV2RGduY3ZJWnRFa2xSb09FWWpoX2ZPZ1NBY0tsbmpwb01kbUl0OEJQRlJYZGpoY294OEQ2SURjZHkwTnlsZDlNZDl1WDdMbVBjeE1CbXJOclhWNHg4M1JoOTFfRmF2cEVWQkRXQTlsRVlXTUlMYVlfUTF2SmFLekhHYUh5NHkzYTlrdENZNW9GbHJncXU5TGtsX3pUOU5GQXk2QlE?oc=5">Exclusive | Cyberattack on Washington Post Strikes Journalists’ Email Accounts</a></td>
 <td>Exclusive | Cyberattack on Washington Post Strikes Journalists’ Email Accounts WSJ</td>
 </tr>
 <tr>
 <td><strong>WSJ</strong> Jun 09, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMihANBVV95cUxOSWVibnhkSUo0eHZlU0lRWVFLa3pXZWpxSE5zeEdXVnFMSktwOHZKRHExMGJvRkZvbHdqc2V4cFFLN2t4aUJWOEdiSDkwXzRrcXBJS3NsNHEwanNSZjNNd0lRQU0tcnFIOEVOOFR2WTFDby1QdkNzREVjSjBKbTMtdTYwOVpTaWhxeGJITzFKTVRnZzRTaHZYck9yNHhuUlBqY2RpbHJLd0NGeUppcFZGUXNubUZ4MDZpUWZLSXNLMkFfNmRkcVVzNnRLSGU3NGNOQVdaRFU5NXpsMFQ1MHd5TmVyblFHclBRTTgzOFBqZ2tRdDBSV2JYdUxOSS1BUlRyNFVKbWZXb1l2eUV2ZXZIZzNIVG9BTFpPUUVCVDNfdFJWdklncm1KM3VXYm96dzlhUzlrNW9tLUZfaXBILXp1RU1JODN6QXVzekphRlFWVkFFVENhaHZZeEw1UU9kUzFxaEVQcGVWS0dGM29GOTJQU2EyNmlBWWdQZjE1eXBkYnNGcDMz?oc=5">Why You Should Think Twice Before You Click ‘Unsubscribe’ in an Email</a></td>
+<td><a href="https://news.google.com/rss/articles/CBMihANBVV95cUxPdWZTRlZzc2plM2tpQnBaMkxzUWRVdVVCdl9YV25TdVFudGFsLWxnZVhFa1pROVBPZ1lmTXZGZDUtLUo1YlRIT1R0SjUtckV6MFRWYlI1QUJCejdvVldzaTU3MEgwQTlzWUtUVTlGdDNTYndLZzFRUzcyS0x3YmJpLVM3WDhmZlBLanh5LW9xb3RPeTBSSGpiX3hVTlJWNUlkVmpoSVYtOFZwMnRfZ1ZxdDhjbHJQVVRQVnFUS1dVOTY3c0ZWQjFlRGdkTGhvdEp2UVoxMG5vaVVjTW54OTVPM3VhSDM3VEVHZlFfQ0cxQlpnQzRENEZGWjRkQXdCeTJMTEY3WE50bGYza3ZoLTEwTUxNNDBEYnF5Mlc0S0p3X1NkTDUyd2ItR3NCYkNGUElubWZyTEdvU2s0UnVmaUZzOE80Qmk5MV93OGF2NTRvVEdHX3RZcHdFUUFGemRiaU93UkpBdWNLSTZXNmVCUmh3QkxGcW5NbE5CUnhKbndjZERDY2lE?oc=5">Why You Should Think Twice Before You Click ‘Unsubscribe’ in an Email</a></td>
 <td>Why You Should Think Twice Before You Click ‘Unsubscribe’ in an Email WSJ</td>
 </tr>
 <tr>
 <td><strong>WSJ</strong> Mar 22, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMimANBVV95cUxOeTQ0Y3pXRG1yM3BqRmVRUmkwZTgxVHpiRnYyRUZrWWV6YlgyQXl4M1VjN0FYZFRNdUJBY3JtWEthZndrcDJqTzBaVF9MX3BSYk9sTUxaczVSNlEwZTZ5bUxyX2o3dlpBWWNVeWRUQkVEZ3lGWmRQUF9IS2lUTFJPNGhvUExsMDZUUVZaeTBGRWJiWUM1N2JKYUxOdlpFTkM1YXdYMlpSOU5Bd1RGakZQcDZwMDYtOFl5RnpWcXNpeEViVF80YXh1ZGRDdnktQ1NXWnVUcE1LR05yOTItTzlvQmNmSnhxODY5SGo1YlB0czNCWjk0X0ZRX2dkbnJiQkt3T1pHYVplUE1mdTROQ1lLV2dqWVQ0RG1WY2hQNnZxZU9YTEh3MnBMTE50RHZoOEszT2h2TnByQ21TdHg0aTJkMTE0bTI1OEFBeWU0NktINFA0SFlaYnF1TGRxSFlWcF9SOG41Z05JYU00OV84Wjh5Z1UtamIzNm53N2NhZ2E2S1duWjJzRlhaT3JBY25oMXI4c1NONE1OV1U?oc=5">The Feds Need to Step Up on Cybersecurity</a></td>
+<td><a href="https://news.google.com/rss/articles/CBMimANBVV95cUxNQlR2aEN2YXBxOHlYSWdBRUdodktCal9BOWF4V0hpTzJnME0wWEliXzhhV2ZTUUxZUlo1TjV5b0U1LWVkc2FWMF9NbXl1aWlXRS1rdl9wMW9ac1V4bG9pS1pLdmwwUEhDYmEyTWJUU1dTejhreHRaOW9mQzdjMmhMQVNvZGdULXlnQXZfLTdKVmEwbVVlQlBLMDBTVjZNYmpBa1plM2VWVkhJTlpxaHdTT29JR1RPU0huN0pRV3Z5ZGVzRUJIdmxxM1cxUlJnNzZHakRrUmItZDdGZEFtV0cyaUhWZHR3SzdYN0ZEWkpjaktTNjFRSGZ0aS12dm1lWDQxcFZPallIcVJYa2lxLUVXTFBYWHBFRm8zZTBmY2FkbXh2R3JPSkx1U09HeE5WcWs3WjNUdmM4WXE3SUpWbnBCMWFfeUJVX0ZMNEFYQ19MWGRPaUdIeTRPMkljMm55Wk41VXdYSTEwbjFNQ3lSWEVET0tJTkNzVEFUTWhCWnR3X0syTG5KeWhjYmtzRW9JWW95b3N3bng0Y1I?oc=5">The Feds Need to Step Up on Cybersecurity</a></td>
 <td>The Feds Need to Step Up on Cybersecurity WSJ</td>
 </tr>
 <tr>
 <td><strong>WSJ</strong> Feb 21, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMiqwNBVV95cUxOckN1bDVGc195SFlWNjJuaXpRSUdaZnBZUzJ2cjNLYVBsTTB0UDNZWGNpcy1QWHpfU0Z4bkE4a290ZGRYNUQ5ZFh2Sk9WaWRSX0hWMGFCNVdNVVpWU21reE91SDhOUkVRZFV1cjNnOWRjWkdvN0NaTGRaMGlWbE11MUlUUEREaGtGRkZDMVRPZ0RVaExSdTRBVnVBQkFjcGo5UTA5SXF4Vi1HcHR5V24zeWdoX2RqWVhhVjd2aG52R2RPZmM5TlkzdGd3cUcyRTkzRmFDY0tua2tFTGdmd3F4RlRwdXFIaE9oZDhrTXdLZzVKTUd3WFl4bl9EemIzczlvdlFXMnV1dUNaUF90MTlHRmRSTmp2S0xFd0ZWZy1seGhSVmI0NFEzREhnNk0yVi0tMU1UekhqR3pDSHlIVGFyR2NpaVZ3dS1FMWZrRUR0SndOLU9ha1ZLb3B4UWc5aWFKT09EZjRuSkVJWHhkdWJUb1BZMmI2c1FrRUhTcTlzajdqamVKYU8wTkJmU0h3Z1NYRUp6cFZnTVRiLUg3V2lwdzZvY1NCQnpqQUxN?oc=5">The Cybersecurity Talent Shortage: WSJ Readers Dissect the Problem</a></td>
+<td><a href="https://news.google.com/rss/articles/CBMiqwNBVV95cUxPdk9GYTVSWURSdnd4OW8zSS1PR3Q3Mkd3S3FyZUJ5TWh6YUJ6cy1ZeWpvc0oyUUFZYW5NZms2MkFRQjdHOXhzdzZwMmMwQm1zLWVVSndiN1lRUkVTSkRURmx6SjFBd3h4ZFJwbExyaVh5WThkcEQzendZYzVINWJxUmJuR0dWanlDcVpnSmZndXZBVGxYYzBzQVV3TmpXcUtKWnQ3QmlRRXY4NEs4aGpKVVZueW12ZUdmT0p2QmotQThwTTIxZklhUjl3R2RhdEpHemdFRFFOZ2pHYkU5MFR4Qjk1cnN4ODNUamdsdGpJN2lMcFVOWmZxdkVUeThwRWE5a0xmXzBBUnNpMFlzcjJHb25LSmtWNlhkMXk2elNxVk83SW5HaFhZdDZDeDZkMHM2N3pjUnk0aHNvbmhmTlN6WEl4TC0xdjI1Q183RXFDWGJxUnFBS0ZKMlVRd0xVNWVObV92Qm9udEpNcEtEcVlDOVdwZ0IwQkxaRDVzbVJFYUxMTDlhQUdqWEtVUE10VDMwM3hsLU5KaWVUNS1yOVJ6YXJXZVdRWU1FX1hF?oc=5">The Cybersecurity Talent Shortage: WSJ Readers Dissect the Problem</a></td>
 <td>The Cybersecurity Talent Shortage: WSJ Readers Dissect the Problem WSJ</td>
+</tr>
+<tr>
+<td><strong>WSJ</strong> Dec 27, 2024</td>
+<td><a href="https://news.google.com/rss/articles/CBMiswNBVV95cUxQSWVIZ09GZ05kZ2pVNDF4M3FxUGZ4YjlKekhab0Z1dmI5RVhkSVMtYkpDaXhURExEeXA0ZWtVcTI4RzZwYmxYa0pxUWNxdGdvWDFoVHBQVDllSmI1a1JsRmtpTXd0a2Z5dzlJT0xXeG1zb240R0dlSzk3aEJGUHBrZEhPb3RaOWppelViUTUxeHRPWk5NYmM4U04zOHJuWWxRdkZ2VE9JeVV2b2dWdFhSR25EbFFRdVR1Um5KakNYWXd6WUxmaGVCRGZueGwyNVJNbW5iQzY4cGwwbFZ1VEZzUmE5MzltdDFGaENuRmVqM0NCbDVUWXgxc3RrejhxdjVFMW50VnNmV3pLdGNSZklidmFJeVpvUEV2Znd6WHNFbTFmREZ5NzNfblF4RjdsYURuNVNiUmVwcjlYU1c2WW1oUEhmVHNuRHBfUzFwcm91TkE1cFl1dnliS1NsSGhiRFVYTVZEakhhal9DWXV2bjhhSW9vTy00OFByRkh1d2czV2UtYWxual9RbFBvV1R1UXBIVmRQSG8xaGJkYWtTMWtydW52eWgzNnBXc1Bad2tkQUR5YUk?oc=5">Healthcare Providers Face Stiffer Cyber Rules Even as They Cry for Help</a></td>
+<td>Healthcare Providers Face Stiffer Cyber Rules Even as They Cry for Help WSJ</td>
 </tr>
 </table>
 
@@ -767,14 +767,14 @@ _Technical cybersecurity news, vulnerability reports, and threat intelligence fr
 <td>Kali GPT – Revolutionizing Penetration Testing with AI on Kali Linux GBHackers News</td>
 </tr>
 <tr>
+<td><strong>GBHackers News</strong> Jun 19, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBabjQ4OHYxZnU4Y1ViNG9vdUxtdTBDS0VNRzVkbVc0TDRfTGxleWNmN0wwU2dycUI4VUtyMmZDQ296VEdVbktIS3h5SURpeFRaTzNJNmhLOHc5azAyeWlQa0k5N2ZIQ0k1SE01SUhQWUYtU2tTQWfSAXtBVV95cUxPT0h0QU0zZ2x3dXEyR3dacHJqWS1IWjdtdWp1SWE2NWFubmpjY1RJZU1hVlk5RHVsd1VfRk1UTmJHMW9tcGJCdDduZjlkTlc0OEprbmdoeVpLWmpZeEVWVEg1MF9YWndWUzVSaHFZeTQzYlJUenEydGJCd0k?oc=5">Sophisticated Phishing Attack Uses ASP Pages to Target Prominent Russia Critics – Google</a></td>
+<td>Sophisticated Phishing Attack Uses ASP Pages to Target Prominent Russia Critics – Google GBHackers News</td>
+</tr>
+<tr>
 <td><strong>GBHackers News</strong> Jun 12, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qOXBQSm5adll3T0ZzVmVTUlRuZko3MmlpOEktX2lfWWlvbF90cTFBZGZGM0hBaGFLWER0eUprb25NUDNCV1M3X09vajM5Nm5CUGpwaXZ5YUg1Tksz0gFiQVVfeXFMTXVJaG5UdUhyMmgwQWltWWp5b2NBSnNyTGQzeHNMS3VETmkyWVh3b2s3cGdWTzN2cG5udzZ3bjE0UTBiZGpIQkxSM2xHVHc4LWdsUjZ4QXE5b0Rpdm5RRnVHeFE?oc=5">Hackers Launch Coordinated Attack on Apache Tomcat Manager from 400 Unique IPs</a></td>
 <td>Hackers Launch Coordinated Attack on Apache Tomcat Manager from 400 Unique IPs GBHackers News</td>
-</tr>
-<tr>
-<td><strong>GBHackers News</strong> Jun 18, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE5neXpkSnhHRDc5MGRwbU5LZVkwNDQ5Z3RnbUR0eE1zMWxIRnl4WXRqc0Q5YXRld3FrX1AyQzROdzNKbEVlR0V3R1d2V2hOT1k1a2lkN1VJRnhfd1VEbTY2TXR0cUVKR1Rt0gFuQVVfeXFMT0F6VUpFaEFzQ2NvdUJBTzNRa1BMS3VJeFJRdTBNa1JTSnJsdmJpM2VvZmg4b0RVZW9BZzZNOVBGRkw0ZFRmZy0yX1RCYlREME9Edkx6bUp6ZU5zb25RclpHTFJtNjhOVV9EVGpMR3c?oc=5">Citrix NetScaler ADC & Gateway Flaws Expose Sensitive Data to Hackers</a></td>
-<td>Citrix NetScaler ADC & Gateway Flaws Expose Sensitive Data to Hackers GBHackers News</td>
 </tr>
 </table>
 
@@ -807,9 +807,9 @@ _Cybersecurity reporting from The Record by Recorded Future._
 <td>Nearly 70,000 impacted by ransomware attack on Sheboygan, Wisconsin The Record from Recorded Future News</td>
 </tr>
 <tr>
-<td><strong>The Record from Recorded Future News</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPMWVBTTVHTjgyZmF4RXdYM1Yxa3NyUzNVem1DMzY1LXBOUnN3b3A3YWpPa04wRER1bFV3dG1TNkwzcEVjQS1zaTk4RmFUWVdRb3NfX3BFbGc0bUxhMkxZcW5ITzdWNU94NnVrblUxaFBILUtnNFBXbFk4TUhpa19TUnNR?oc=5">Researchers say cybercriminals are using jailbroken AI tools from Mistral and xAI</a></td>
-<td>Researchers say cybercriminals are using jailbroken AI tools from Mistral and xAI The Record from Recorded Future News</td>
+<td><strong>The Record from Recorded Future News</strong> Jun 24, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE5YVTdTMmgyVl9EQWFPY0pJY2hhM3FDdEt3emNpV2lmSXY3aWlzR1FSeUpiZEZ1WkZZUndRSlNWWlJvWEx2d0lqRVBJWHNWZjZLUnU1WXR3TF9ONjBraXc4aDRZRk9VcmJZUXBoeUhkRHIzQ3plYWVwOA?oc=5">NATO Summit in The Hague hit by potential sabotage as rail cables set on fire</a></td>
+<td>NATO Summit in The Hague hit by potential sabotage as rail cables set on fire The Record from Recorded Future News</td>
 </tr>
 </table>
 
@@ -822,14 +822,14 @@ _Latest cybersecurity news, exploits, and vulnerabilities covered by The Hacker 
 <table>
 <tr><th>Source</th><th>Title</th><th>Summary</th></tr>
 <tr>
-<td><strong>The Hacker News</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPZjA3dzdrdmZKOHg5dS1aTGhhTXBMcW1kaU90eUM0dzBkTnVwSF9PQUNSSmdTSEZaeUlIeGl5LXp3VXZNTWJoQUNTSlNiUUFDZXdGM2FTY2o2ZDVqZ1VvaGdmTlhWcFg1TG05b0RPSFBkTjhVVlJhSGpqX0pHRUhTbm5maw?oc=5">⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More</a></td>
-<td>⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More The Hacker News</td>
+<td><strong>The Hacker News</strong> Jun 24, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE9ETC12enNBODhwU0NFYV9SdkRYaGFUMDZYQ2tiQUJKOWlzY1ZXQ3NNUHgwUXlYbDNGTXBqd2tRTXhPSmNnMmJ6V1NHSE44NWJtWkpwaGx2M2FQemJtSG85bWlVQU1Xb01zT0RISk96Ni1BcHJnUEZFUnRfbFp3dw?oc=5">U.S. House Bans WhatsApp on Official Devices Over Security and Data Protection Issues</a></td>
+<td>U.S. House Bans WhatsApp on Official Devices Over Security and Data Protection Issues The Hacker News</td>
 </tr>
 <tr>
-<td><strong>The Hacker News</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVI0SW9IQVZjbklFcXpBLUx6WUZteFEyeXdXNm5BRFY2MmlnMHpWc2J4OXFZX0UtV0c5UW16YmExM21Ib01YSnluQUN5VHpGZ2c5RFlfZU5HbGhkaFM4ZWtXRU15YVRCdFdaOVg0d3ZfTUFndHpNS0tTRHd4ZXY3MHc0WUQ?oc=5">DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes</a></td>
-<td>DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes The Hacker News</td>
+<td><strong>The Hacker News</strong> Jun 24, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE1Cc3N6bFRNNkpLbUpsOW1Tcm1udVo0d0hjWUNKR0tvRnZMay1Qc1F5Nm9MemluNjNFTDZxRWtzeXE0UXpfeVMwVHpKLVFGTUNkOXpCZEF3RF82WjhrUG5qXzJQSnl6VWw3UWRTU2VuM1hBNkZoVTBxbUMza0pjUQ?oc=5">China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom</a></td>
+<td>China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom The Hacker News</td>
 </tr>
 <tr>
 <td><strong>The Hacker News</strong> Jun 23, 2025</td>
@@ -838,13 +838,13 @@ _Latest cybersecurity news, exploits, and vulnerabilities covered by The Hacker 
 </tr>
 <tr>
 <td><strong>The Hacker News</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWViU3Z5eHpsUEFWNV9ROGNRSnliNk9rYjF6VE02V1duUW05TW53MUJ1WVdvaWx6R2w3YU1sdjZqUEtwclFCRVNQdlM1QnhjZnpyOV9adllSNTNfQXJ0YWJaS2g3YjJhN2RBLU03MDhPdFlIZkFvaFdfd3lnZWktV0Y3MHQ?oc=5">XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks</a></td>
-<td>XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks The Hacker News</td>
+<td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVI0SW9IQVZjbklFcXpBLUx6WUZteFEyeXdXNm5BRFY2MmlnMHpWc2J4OXFZX0UtV0c5UW16YmExM21Ib01YSnluQUN5VHpGZ2c5RFlfZU5HbGhkaFM4ZWtXRU15YVRCdFdaOVg0d3ZfTUFndHpNS0tTRHd4ZXY3MHc0WUQ?oc=5">DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes</a></td>
+<td>DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes The Hacker News</td>
 </tr>
 <tr>
-<td><strong>The Hacker News</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQekNtX1pRVW1pcm0zZ3lpcHc1akQ5bU11Y2NTemQ0TTRZSkxQNTFuZGZkTDhJTG9hbjc5RmJ2WmhsZ0k4OVg4OW55dmdlT3N0eDNuaFpCeC12cXZsWE0wSnYtamduNHNhUF9MYmFFS1pXRHpPVTBtS2k5MkVWMVEtRXZR?oc=5">Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection Attacks</a></td>
-<td>Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection Attacks The Hacker News</td>
+<td><strong>The Hacker News</strong> Jun 21, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjhNTkNOaFFZa3ZwTE9WNVhDTjUyVjYyclJGM3AtX0ZqN2MzV1ZGbHNBUmtXN3djTVJzMzE3OFdDMWczSlQzRDZReUxidUhZdVJITVRvQW4xSlA1bVlwczB1WkJVMTJoWUhaU3hGOGo2bGlETFBGWkZGbjNuZjdZX3pHeDc?oc=5">Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages</a></td>
+<td>Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages The Hacker News</td>
 </tr>
 </table>
 
@@ -857,19 +857,14 @@ _Emerging cybersecurity risks, threats, and attacks involving artificial intelli
 <table>
 <tr><th>Source</th><th>Title</th><th>Summary</th></tr>
 <tr>
+<td><strong>ET CISO</strong> Jun 24, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOWU80M0c5TE5YN3NzZnpNMS01UTRlOUg2bGFEekIxb0JzMzl2TEVMRTdYenZPUDlRUmlqNmJmRkl6V0dqYWVkNkhyZDJqbEx1azZQRk5KYWtpZW11bFM2TzNZcDdvYmlhaUpUTlZTRmhyQTNJVnNGTlVHRlpNekl3MTRmbGVoOUFqY29PSHRCRmZvZE9Pd1VPTG50a2hveC1mMjRnQWVubFV0N1lQamZQSG82dWtEc2dNNG1SVy1wam5XWTJKTG1qU1BPbFLSAdIBQVVfeXFMT0l3VDhKR25uUURsQXcxRV9nbVEydEllakIzSExaelg5a3BpcTR3bkJVOHVMRDNxYnJ6TG4wM1M5c1VOTGNQTGM2ckdsU05Ea1REYUI1eVc0a2FaTEVpVDJXcGxnOFBLN1pXYkU2d1BIbFBjYzZJX1F4NklNMG1vOVE0N2RGN0FtYk84S2FVWjhTNElIMmI4bUtNYWlaQUNSQkppcnFpSW9iTXNvMjFSVTRseVdDakhnQlFIRzROMXhyNGZtUGFPLWFOUXVIYWdXUkN3?oc=5">Palo Alto: 10% of a company’s 66 GenAI apps are high-risk on average</a></td>
+<td>Palo Alto: 10% of a company’s 66 GenAI apps are high-risk on average ET CISO</td>
+</tr>
+<tr>
 <td><strong>Infosecurity Magazine</strong> Jun 23, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMldwVWZIUnFwUnBYUVlCRHhJdXdzWEVMNjdjNmFXdHk5RHlXSjZxQXU5Qkd5cmEyWWtyYks5ejhzMllDQXRmcmIyM0tiN1ZwNnZ4YmhSMHdzSzBreGFkSFlFMWNaNXhRdzJiS3dYYkh6M2ljQ1ZUa2l6VWdVVWJvYlAzSWM1cTdoWkg4?oc=5">Leading at the Speed of Algorithms: Immediate AI Priorities for Cybersecurity Leaders</a></td>
 <td>Leading at the Speed of Algorithms: Immediate AI Priorities for Cybersecurity Leaders Infosecurity Magazine</td>
-</tr>
-<tr>
-<td><strong>Hotel News Resource</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkb0Z3WjduMEE4UnY4VHNVSm1uN0xUNTVRdHhLbnZzelFmTUs3cnBqWmpsRy0tSmFUTEVHTk0yS3B0aTR3Q0hMdktnQjNrQlBjTktvdFlIY2ktWGVwcnZsaGFB?oc=5">Cybersecurity Challenges in the Travel Industry: Protecting Trust Amid Rising Threats</a></td>
-<td>Cybersecurity Challenges in the Travel Industry: Protecting Trust Amid Rising Threats Hotel News Resource</td>
-</tr>
-<tr>
-<td><strong>Investor's Business Daily</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5LcVU1VlE2THBCSVN3Nm16N1NJWmlVMElySGhjSVdreHJ0bnVxSkJjOTJ3OVBGSUZ3V18yTmNCV0puSDBIZ3RiNVNpY0ZSQU8wU0lHdmRVdmNaZ3FTWDNoTUphbmhjVXRkbTVmbkp5ZnU?oc=5">Will Cybersecurity Stocks Out-Perform As Geopolitical Threats Climb?</a></td>
-<td>Will Cybersecurity Stocks Out-Perform As Geopolitical Threats Climb? Investor's Business Daily</td>
 </tr>
 <tr>
 <td><strong>McKinsey & Company</strong> May 15, 2025</td>
@@ -880,6 +875,11 @@ _Emerging cybersecurity risks, threats, and attacks involving artificial intelli
 <td><strong>Google DeepMind</strong> Apr 02, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzN2dGJZbzVFdFd1TDVqcUhhVzl5Z2dlQUZ5UV9OU3h5NHozTFdPTlJxeXZkZG1zNHF5cF82S1psRTVqamVBcDJLMnM1ZWh6QUFTMGpVSUxEM2FJSnUwTmhZTkxPekFSbWR2TWlaRXVZQmxfa2NLQnVveHdlZDEta0xUNERjdnJBRVZrekFybDM5Z0hPQk5ndFpnX2s?oc=5">Building secure AGI: Evaluating emerging cyber security capabilities of advanced AI</a></td>
 <td>Building secure AGI: Evaluating emerging cyber security capabilities of advanced AI Google DeepMind</td>
+</tr>
+<tr>
+<td><strong>Hotel News Resource</strong> Jun 23, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkb0Z3WjduMEE4UnY4VHNVSm1uN0xUNTVRdHhLbnZzelFmTUs3cnBqWmpsRy0tSmFUTEVHTk0yS3B0aTR3Q0hMdktnQjNrQlBjTktvdFlIY2ktWGVwcnZsaGFB?oc=5">Cybersecurity Challenges in the Travel Industry: Protecting Trust Amid Rising Threats</a></td>
+<td>Cybersecurity Challenges in the Travel Industry: Protecting Trust Amid Rising Threats Hotel News Resource</td>
 </tr>
 </table>
 
@@ -907,14 +907,14 @@ _Cyber defense strategies and doctrines from the US, NATO, and allied nations._
 <td>Defend in the Cloud: Boost NATO Data Resilience Center for European Policy Analysis (CEPA)</td>
 </tr>
 <tr>
+<td><strong>NATO</strong> Jun 20, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFByQ1NPRGR4aWp4bWhMVjVwNUFpczdZTFdOM3BSNWlGTXA0cDd2WVhRdnNzVXRNN2l0ZVQzdXl4WTJ1cEhtMmZhYVZMRGhNY1RsWXVsUU5fTk1FTUlfeEFJWQ?oc=5">Topic: NATO’s nuclear deterrence policy and forces</a></td>
+<td>Topic: NATO’s nuclear deterrence policy and forces NATO</td>
+</tr>
+<tr>
 <td><strong>Chatham House</strong> May 15, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOV0Z5QjZEc3pBbU1xcTgwSklVTTNmVEZfNkRmYllKTTFPRTAxa21Qb0g0OEVBdzNkRDBhc2l6d0hYZjlGM241TFQyenNiZkFQOUh5Sy1DV1ZxUnFGVU81OS1RYU9ObnJ3VGlDZXNNWlJFVXRBQjRxRFgzY29NQUZjY0JfTWIwRjlqMjE1ZEpTbG1CczEtN2xDZXY5akswaGRBcHBaX1MzRHUxbWtlYnRkbHNXNzZrdFFHYjR4UFE3ZHNqWXFpdFE?oc=5">Securing the space-based assets of NATO members from cyberattacks</a></td>
 <td>Securing the space-based assets of NATO members from cyberattacks Chatham House</td>
-</tr>
-<tr>
-<td><strong>Atlantic Council</strong> Jun 02, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdm9Kc3p4VTItcDdmNGh6TkZPdUpaZ0Fta3VMM1pycDVIcEpXdHlfa01kRV92UFM2cnh1eXhKZV8tbUhsd292ek9MNEg2Uk0wTklDR0FzcDYtYUx2VjlqN2JZWGRQMWJFczREOHExRG84S2VDSUJVVXFEQURfYjdhQVMtSDFjU3ZScjdGeGdrQkF3WU1tNWc5aVVJaHdrQTRNUlJEdlNkYTlsUHNkcTY5c19BNDBIdG5DMTFLZEJlOXVXUFRpcEoxdWh6RzVWT1FhT3FpNzFRYTc1aWZwbXZmZHBR?oc=5">For NATO in 2027, European leadership will be key to deterrence against Russia</a></td>
-<td>For NATO in 2027, European leadership will be key to deterrence against Russia Atlantic Council</td>
 </tr>
 </table>
 
@@ -1017,9 +1017,9 @@ _Advances in cyber technologies driven by military research, including DARPA pro
 <td>DARPA, US Army Test New Cyber Threat Detection Platform ‘CANDOR’ The Defense Post</td>
 </tr>
 <tr>
-<td><strong>Overt Defense -</strong> Oct 03, 2024</td>
-<td><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQSVRwUW5aYnR4Tkx0ZUkzR0hUV09kSUxPTVc1d2puU3BDSUNiNXN1MnhlZTY5azBURm9ybnZMN05HOXBkdUVtWUc4cWx2VzNEOXRjNm00SkZINktLTGttSWJBWm5LeUFoT1hJUVJOUjlkQ0Z1ZEw2SlN2RmNMWTRCc3o0UVg2S3JzTEMtRWtXc0FlbmRHWllTMkpwTGxINVI2WkE?oc=5">DARPA Announces First-Ever Trilateral Multinational Project</a></td>
-<td>DARPA Announces First-Ever Trilateral Multinational Project Overt Defense -</td>
+<td><strong>Military Embedded Systems</strong> Nov 07, 2024</td>
+<td><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQYkVuVkV5Vmo1VGlJbU1tUWlYTU14WEhJdEJiVjBnUGJYZEFkM1NGcGZSRVp3TmFHSWxmU0dkZHZqWEF3anVxd3NPemYyWW11ZUNBaGR2a2dLWVllUXpoa3l1UHFnQ1dyTm5BWWExMXVKRzE1VFBSMGlYUU9EcUdHRGRnemxPWXk4UTEtMmNLRFZRc3lpMGNlLWtibzJzU1JTMWVsem85UldjYnozRW81MWI4Sm95MHUzQlE?oc=5">Cyber hardening program from DARPA gets RTX BBN Technologies on board</a></td>
+<td>Cyber hardening program from DARPA gets RTX BBN Technologies on board Military Embedded Systems</td>
 </tr>
 </table>
 
@@ -1222,9 +1222,9 @@ _Coverage of cybersecurity risks and attacks targeting software and hardware sup
 <td>Supply chain attack against GitHub Action triggers massive exposure of secrets Cybersecurity Dive</td>
 </tr>
 <tr>
-<td><strong>Sync NI</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTEljUW5PQ2JLNHg0TEttUW1ZcnFBWURmaTdfYnVwMHBpWEpnX0Z3aVV3cE9mT3JmcFlSZm5rR1ZES2x0d2QzRklFdnVnR2xzenZVWWcxb19JRE9oR1VYSmI5Nk8zRkpyME1uQWQ4cmNRQ0JYOVN0eWJxLXFiZ3M3NG1heVhtMHZ0YVVjenNsOGtIc0hYNGVSclZ6dVREZjUxODh2Z2JHNzJuaWxDR19TaWVuNnpJdVZub1hIM2tleVlteUlJY2VPWUJHUGpFRDNhc1ZOV2lteElmQnM?oc=5">NHS Trusts fall victim of sophisticated supply chain cyber attacks, Northdoor expert comments on growing threat</a></td>
-<td>NHS Trusts fall victim of sophisticated supply chain cyber attacks, Northdoor expert comments on growing threat Sync NI</td>
+<td><strong>Industrial Cyber</strong> Mar 28, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxOelpyT1VjaWItenZoNVZKc2hGQWgta3J5dVNiWThGT2diNzB0Wkk2clRseUJOVkVYa1k1WXNoLWdaUlMzcXRjTW03a1pMaVpZTTVDSXJaOF9JYmJwZVNKYzBFYkttLWc3a0Vad3prNVptTEctc2k4dDA4T3lPS1BHdUNSU3dhQ1hxbFFyRWxGVWVtX0lBVk85ZmZUY0c1ek52QXhYcjNfMXZhaXpnYUNEWGtrZUFHenFyWlV2Q0J5U0dodkFhVW42QTdqSVlYSUxoeGlqSWtEUTJSWGEyaGV2WVdtUTRpT1RReG9ueUl5MDY?oc=5">DNV reports half of critical infrastructure firms lack supply chain visibility, exposing them to cyber threats</a></td>
+<td>DNV reports half of critical infrastructure firms lack supply chain visibility, exposing them to cyber threats Industrial Cyber</td>
 </tr>
 <tr>
 <td><strong>ET CISO</strong> Jun 23, 2025</td>
@@ -1242,19 +1242,9 @@ _Advancements and risks associated with cryptography in the post-quantum computi
 <table>
 <tr><th>Source</th><th>Title</th><th>Summary</th></tr>
 <tr>
-<td><strong>PubAffairs Bruxelles</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPbmExcGV5aUp5NVhVS3pQM2JmSGZnbnc3TWN1MVFvcU5QX3hZQTNYUVlhSzNVRmdocVNfY2J3SjBWSFZKeEpHTjUwZnVkZW9hNElEQ0RxV1hlWllDRjlYT1dRSUNQeTItR0RFSWZnRUZOTmM3R3BjYlZSMVlUMEhlc1JLeXFoMHdKY3dKZThlc1FrcmhYTFlLRDNlQ05yMExnN09vMm9SSy05dUNVWmdsMHBIUk45eExMblE?oc=5">EU reinforces its cybersecurity with post-quantum cryptography</a></td>
-<td>EU reinforces its cybersecurity with post-quantum cryptography PubAffairs Bruxelles</td>
-</tr>
-<tr>
-<td><strong>IoT World Today</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPOXBkRUpONVY3NlhVZnRZMndtUGZBLWYtZjRyMUxXS2dTNGVRei0tOFlqRFdjQ0k4VzdyTkUzeDNaZTgtMzBlUDFfay04cXAtbVN5dGN2ZXo1alV2dms1SU5xUmZTbmtfWEduWmxVTnE0NG9lYmlyWXRIRnNVdkVuVFR2UU9XdVA5a21lYW1LbTU5d29oTDFN?oc=5">Navigating the Global Divide in Post-Quantum Migration</a></td>
-<td>Navigating the Global Divide in Post-Quantum Migration IoT World Today</td>
-</tr>
-<tr>
-<td><strong>Business Wire</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNMmlUR0I2ZXd3N2pOUzZCV0MxVW9qWXE2WUZVdGlVclFXN3piS3pCUF9ldU9NdGZsUkNxQzNBNlQ5ay1sRERIRnVFQzJfVnh0T29qU1JLRU9ZM09KT2NsTEJZaEhFTnpDRW5pTXN6TFBRSmloMWxSOFVWdFJ5NGZyeVkzT1lCejVTWVdLSTZLQlpXS0tJeXNzdmZMSkZVOXgyMVE?oc=5">Patero Announces Inaugural Company Advisors</a></td>
-<td>Patero Announces Inaugural Company Advisors Business Wire</td>
+<td><strong>Industrial Cyber</strong> Jun 24, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMikgJBVV95cUxNcmJkQkl5QXNubm90Y3NMT3pzOVpUMWYxTXZBcjlybHRmQjJLMWk3Si1jN0Z4VEFrRElSQUoyVVl5RFJUakQzOTRNVVFZU25qYm5MUVNodDB6Y3RDS2lHTl9RbDduWjAyWG5NRlpDUmtIdFlkUnhYMGx5UlZ0SzNPMkw4aXR6N3gtZVRzamk1X0xVbVQ3OWhvcnM2eVcxMmlhWC1wZ2c4NUZDenpJR1BMUlI2MlVMamVtZERvV21LWkF1T2gyb2NOd0RodFVGYVJSUGh4ODJBVzB6cnczV2FWZDN0N3pWQ1pGeWlCRnRTcExHS1oxT1pHRTVwaG5wVHp2NE1jRjAydXBmRGVwZW1JaU5B?oc=5">EU begins coordinated effort for Member States to switch critical infrastructure to quantum-resistant encryption by 2030</a></td>
+<td>EU begins coordinated effort for Member States to switch critical infrastructure to quantum-resistant encryption by 2030 Industrial Cyber</td>
 </tr>
 <tr>
 <td><strong>The Quantum Insider</strong> May 29, 2025</td>
@@ -1262,9 +1252,19 @@ _Advancements and risks associated with cryptography in the post-quantum computi
 <td>Post-Quantum Cryptography Coalition Unveils PQC Migration Roadmap The Quantum Insider</td>
 </tr>
 <tr>
-<td><strong>MITRE Corporation</strong> May 28, 2025</td>
+<td><strong>The MITRE Corporation</strong> May 28, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNTVpJbEVIN3R2ZWhlUFRKYmRYcjRKUEZUNXU4NXZ0ajRfOURZQUFjaEVSNnVvZ1ZaVHY4aTEtWG5hcDRVc0tlTkhUTEdRSnotWWVtM19rcVB5dlZUQXpZcFNEeVlCNzF2Mk5fT0RFMnQ4WU0wZ190TEJDYmt5MWdUVWFYM21iNXpwaFNTOHlFNndXQnk4UDlSeTVrUVllX2FBRHdQSWZzMmFFOWxDX3dUZzlkZHo?oc=5">Post-Quantum Cryptography Coalition Unveils PQC Migration Roadmap</a></td>
-<td>Post-Quantum Cryptography Coalition Unveils PQC Migration Roadmap MITRE Corporation</td>
+<td>Post-Quantum Cryptography Coalition Unveils PQC Migration Roadmap The MITRE Corporation</td>
+</tr>
+<tr>
+<td><strong>Business Wire</strong> Jun 23, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNMmlUR0I2ZXd3N2pOUzZCV0MxVW9qWXE2WUZVdGlVclFXN3piS3pCUF9ldU9NdGZsUkNxQzNBNlQ5ay1sRERIRnVFQzJfVnh0T29qU1JLRU9ZM09KT2NsTEJZaEhFTnpDRW5pTXN6TFBRSmloMWxSOFVWdFJ5NGZyeVkzT1lCejVTWVdLSTZLQlpXS0tJeXNzdmZMSkZVOXgyMVE?oc=5">Patero Announces Inaugural Company Advisors</a></td>
+<td>Patero Announces Inaugural Company Advisors Business Wire</td>
+</tr>
+<tr>
+<td><strong>PubAffairs Bruxelles</strong> Jun 23, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPbmExcGV5aUp5NVhVS3pQM2JmSGZnbnc3TWN1MVFvcU5QX3hZQTNYUVlhSzNVRmdocVNfY2J3SjBWSFZKeEpHTjUwZnVkZW9hNElEQ0RxV1hlWllDRjlYT1dRSUNQeTItR0RFSWZnRUZOTmM3R3BjYlZSMVlUMEhlc1JLeXFoMHdKY3dKZThlc1FrcmhYTFlLRDNlQ05yMExnN09vMm9SSy05dUNVWmdsMHBIUk45eExMblE?oc=5">EU reinforces its cybersecurity with post-quantum cryptography</a></td>
+<td>EU reinforces its cybersecurity with post-quantum cryptography PubAffairs Bruxelles</td>
 </tr>
 </table>
 
@@ -1282,6 +1282,11 @@ _Cybersecurity threats from a global perspective, including non-Western viewpoin
 <td>Israel-Iran Conflict Poses Global Cybersecurity Threats Forbes Middle East</td>
 </tr>
 <tr>
+<td><strong>Help Net Security</strong> Jun 24, 2025</td>
+<td><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOZDlpMXJDb1FoODFZb3pPQnFXXzAxak5uU2NYSXJWNHgteW1CYndNRkRLTy1lbGZ1N3FMNTVGbUF4V1pPUFZyWmNGTHF5c0pxUmp6UGNPcDhKNEJtXzVYY24yUnNBdXJGYngwM09MMGQzRk5zOU4wY3Y4bDc4VFFZbWFBZw?oc=5">Common Good Cyber Fund launches to support nonprofits protecting the internet</a></td>
+<td>Common Good Cyber Fund launches to support nonprofits protecting the internet Help Net Security</td>
+</tr>
+<tr>
 <td><strong>GlobeNewswire</strong> Jun 23, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxOVkI2S3dmUDRUWWtYNjdKMWl4UjB1LTNBOGJMQjVUWUJnWFRjeVBtOHFjcTlxc0JYMzlCaTE1aUM5RTc3RzEtaDZuNGNYUTI5VGVwRnk5bUFBVzZDNERvYXZkOGhmclNUWHRFNUJUeGRzLVBOdkw4TTVMVmZTdzRITmo0aXhSTHQwbzdyWHY3QzZuanBNN180aDVDUGFnOFRJZkQxUTNFa1JrcHloZHVxSUpZS1FST3kzamhLdHctNkNKLVh6RGZSVDlUY3V4TzNJLUhCYWFzbmtZTTBUU3Z0M0NNb1RaRVZDVms2MWk2dGVzdW1naDJTQjktdno4aktEZE9hTHZYWWlkQmVJ?oc=5">Cybersecurity Infrastructure and Services Market Trends, Challenges and Growth Outlook | Exactitude Consultancy</a></td>
 <td>Cybersecurity Infrastructure and Services Market Trends, Challenges and Growth Outlook | Exactitude Consultancy GlobeNewswire</td>
@@ -1290,11 +1295,6 @@ _Cybersecurity threats from a global perspective, including non-Western viewpoin
 <td><strong>Industrial Cyber</strong> Jan 14, 2025</td>
 <td><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMU4tNWxxX2JfR1BubnNGYVJ6d0ZTelBHVzdCWEw1ak9KcFZrY3VzcGFNOWJSUTQwTkRxUHhUUFVBZVRnLUppaFQtQ0NPLXpHdXVpYy1DUmxFbUNDc1hDSFZzc0NzTllLaGJ1ellLeklEVHNSTnhnamdrU21iMW5EN3cwS3BldXBQTWYteE9KbjVlOW15blhfRnloTWx1aXZXZ0VteHNvdEZzeG1HdkgzcVBFZkZheWZETnZnZDNNU2F3U011dXJkYVRMcXNqV3B3REVjdUUyT20zUmRQa3kxUDRxaw?oc=5">WEF Global Cybersecurity Outlook 2025 report addresses geopolitical tensions, emerging threats to boost resilience</a></td>
 <td>WEF Global Cybersecurity Outlook 2025 report addresses geopolitical tensions, emerging threats to boost resilience Industrial Cyber</td>
-</tr>
-<tr>
-<td><strong>Global Mining Review</strong> Jun 23, 2025</td>
-<td><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkY3SnVfQ2xhWnU5VmJqamVDOTRlQ2IzZVFGYnA5SndBWmxMNGtfcllEZXphR3VUTmk5R2dLOURZVGJfZWtsUG9KTjlrVE1wcDdCXzRIWldfSFluaWZCVGZ4NlhfTnhRN1NGQXhISDVzdVZzc01kVHhRTmhlWWs0VUhReGxiVE55cWNIVnZTRkRTS29BbXpWVE5UNVBCWWZUSm13RU9KbWt6MldIWmJ4ZHJLNDJqZEtpeVVrYmoydWRMZ9IBxwFBVV95cUxPM1VEVlBSZGFlb29yaFZaU3NrYkZtaWNtSFJ1REwxU2Y1bDE1VGVFRG15d0FOb2VTMW05dXVlRExURC1KQWx2aDkwRTJYOVZRQ1NGODR4M01ZU3l6eXF5RnRuZEJjVVJoU2t1UDU3OUhHbWw5YmNaZ2xHaXhjWVVZb2RGX1JtSnlTTkVzakJ0TDBsaWsxUFBabmxnNjBqQmF0d3cwWXBLUU1Vd1FxeUpiSzBnVlBVZ0Z1SlFsTGExRzF1b2xXVHp3?oc=5">Sandvik earns cybersecurity certification for secure product development</a></td>
-<td>Sandvik earns cybersecurity certification for secure product development Global Mining Review</td>
 </tr>
 <tr>
 <td><strong>Reuters</strong> May 21, 2025</td>
